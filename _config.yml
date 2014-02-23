@@ -1,6 +1,6 @@
 title : "Village Fire 2014"
 
-baseurl: "http://villagefiresinging.com"
+baseurl: "http://neilmb.github.io/villagefire"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
