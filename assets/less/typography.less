@@ -11,13 +11,19 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: @heading-font;
 }
 h1 {
-	.font-rem(72)
+	.font-rem(96)
 }
 h2 {
-	.font-rem(64)
+	.font-rem(48);
+	background-color: @basecolor;
+	margin-left: -15px;
+	padding-left: 15px;
+	padding-right: 15px;
+    width: 400px;
+    .rounded(9px);
 }
 h3 {
-	.font-rem(48)
+	.font-rem(36)
 }
 h4 {
 	.font-rem(36)
@@ -91,12 +97,17 @@ figcaption {
 // Blockquotes
 // --------------------------------------------------
 blockquote {
-	border: 1px solid @border-color;
-	border-radius:4px;
+	background-color: lighten(@basecolor, 20%);
+	border: 3px solid @border-color;
+	border-radius:9px;
 	text-align: center;
 	font-family: @alt-font;
 	font-style: italic;
-	.font-rem(24);
+	.font-rem(36);
+	p {
+	    padding: 0.7em 0;
+	    margin: 0 0;
+	}
 }
 
 // Footnotes
