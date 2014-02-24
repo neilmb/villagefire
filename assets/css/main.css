@@ -1058,20 +1058,21 @@ img {
   padding-top: 0px;
   margin-top: 0px;
 }
-.headbox a {
-  clear: both;
-  border: 3px solid #8f0000;
-  background-color: #8f0000;
-  margin-bottom: 20px;
-  color: #ffffff;
-  -webkit-border-radius: 9px;
-  -moz-border-radius: 9px;
-  border-radius: 9px;
+.headbox #btn {
   text-align: center;
-  padding: 10px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.headbox a {
+  border: 3px solid #8f0000;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  border-radius: 14px;
+  background-color: #8f0000;
   font-size: 40px;
   font-size: 2rem;
-  margin: 0.5em 0;
+  padding: 10px 1.5em;
+  color: #ffffff;
 }
 .image-wrap {
   position: relative;
