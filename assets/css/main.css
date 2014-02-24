@@ -1059,9 +1059,10 @@ img {
   margin-top: 0px;
 }
 .headbox a {
-  *zoom: 1;
+  clear: both;
   border: 3px solid #8f0000;
-  background-color: #3399ff;
+  background-color: #8f0000;
+  margin-bottom: 20px;
   color: #ffffff;
   -webkit-border-radius: 9px;
   -moz-border-radius: 9px;
@@ -1071,23 +1072,6 @@ img {
   font-size: 40px;
   font-size: 2rem;
   margin: 0.5em 0;
-}
-.headbox a:before,
-.headbox a:after {
-  display: table;
-  content: "";
-}
-.headbox a:after {
-  clear: both;
-}
-.headbox a:before,
-.headbox a:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-.headbox a:after {
-  clear: both;
 }
 .image-wrap {
   position: relative;
