@@ -2,7 +2,9 @@
 layout: home
 ---
 
-> Words and music need only breath and spirit to live. --Pete Seeger
+<blockquote>
+Words and music need only breath and spirit to live. --Pete Seeger
+</blockquote>
 
 Do you long to twine your voice with others in song? Do you love to be outside
 among trees, water, and sky?  Do you know the pleasure of gathering with
@@ -21,17 +23,16 @@ challenging songs that speak to critical themes—environmental, social,
 interpersonal—in a way that brings joy, a sense of success, and an expression
 of shared meaning.  
 
-Learn with songleaders whose love for group singing
-inspires us all. Relax into the voice you were born to sing with as we share
-beautiful, fun, simple songs that can reshape our world. 
+Learn with songleaders whose love for group singing inspires us all. Relax
+into the voice you were born to sing with as we share beautiful, fun, simple
+songs that can reshape our world. 
 
-> We are the gift between earth and heaven
->
-> We are the song between sky and ground
->
-> Sing for your life and for this world we’re making
->
-> Nothing is lost that can’t be found
+<blockquote>
+We are the gift between earth and heaven<br/>
+We are the song between sky and ground<br/>
+Sing for your life and for this world we’re making<br/>
+Nothing is lost that can’t be found
+</blockquote>
 
 ## The music
 
@@ -90,7 +91,7 @@ genuine communion.
 
 ## The Schedule (more details to come)
 
-Thursday, May 29: 
+**Thursday, May 29** 
 
 * Greeters at the Welcome Table will be watching for you between 2 p.m. and 5
   p.m. They will help you find your way around and begin meeting others at our
@@ -99,7 +100,7 @@ Thursday, May 29:
 * Our first shared meal is a Thursday evening potluck at 6 p.m. 
 * At night we’ll gather around the fire for open song sharing. 
 
-Friday, May 30 and Saturday, May 31: 
+**Friday, May 30 and Saturday, May 31** 
 
 * Three great meals served at 8am, noon, and 5pm. Bring snacks for
   between-times. 
@@ -112,13 +113,13 @@ Friday, May 30 and Saturday, May 31:
   among any who have a song to lead or suggest. Be you a learner or a leader,
   you are warmly welcomed.
 
-Friday night Special:
+**Friday night Special**
 
 Come dance with friends new and old! Decorah’s own Eric Sessions, John Goodin,
 and Rob Hervey will play their fiddle, guitar, and mandolin for a good
 old-fashioned contradance, called by Bill Deutsch. 
 
-Sunday, June 1:
+**Sunday, June 1**
 
 * Breakfast and lunch served, Song Circles in the morning, and closing circle
   at 2 p.m. We really hope you’ll be able to stay through the closing circle,
@@ -143,11 +144,12 @@ people, befriending each other through the play of song.
 
 ## The Setting  
 
-Camp Tahigwa is an old camp on 300 acres of expansive hills, hardwood forests,
-limestone cliffs, caves, and a meandering trout stream. From the moment we
-arrive we will begin to create the community we love, welcoming each other and
-opening our circles to include all. We will make a home there and work
-together to care for the land, water, creatures, and people of our community.
+Camp Tahigwa in Northeast Iowa is an old camp on 300 acres of expansive hills,
+hardwood forests, limestone cliffs, caves, and a meandering trout stream. From
+the moment we arrive we will begin to create the community we love, welcoming
+each other and opening our circles to include all. We will make a home there
+and work together to care for the land, water, creatures, and people of our
+community.
 
 ## Lodging
 
@@ -262,4 +264,4 @@ Help for a few hours or more, as you are able, with:
 * If you have experience with Theatre of the Oppressed, we want to talk to you
   about ideas for your presence at Village Fire. 
 
-> Come let us wrap ourselves in all of these things.
+<div style="text-align:center;color:#8F0000">Come let us wrap ourselves in all of these things.</div>
