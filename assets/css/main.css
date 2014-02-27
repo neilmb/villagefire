@@ -423,13 +423,12 @@ h2 {
   font-size: 48px;
   font-size: 2.4rem;
   background-color: #ff9933;
-  margin-left: -15px;
-  padding-left: 15px;
-  padding-right: 15px;
-  width: 400px;
+  align: center;
+  text-align: center;
   -webkit-border-radius: 9px;
   -moz-border-radius: 9px;
   border-radius: 9px;
+  padding: 8px 0;
 }
 h3 {
   font-size: 36px;
@@ -438,6 +437,7 @@ h3 {
 h4 {
   font-size: 36px;
   font-size: 1.8rem;
+  margin: -0.8em 0 0;
 }
 h5 {
   font-size: 24px;
@@ -517,6 +517,11 @@ blockquote p {
   padding: 0.7em 0;
   margin: 0 0;
 }
+.textquote {
+  text-align: left;
+  padding: 1.2em 1.5em;
+  font-size: 100%;
+}
 .footnotes ol,
 .footnotes li,
 .footnotes p {
@@ -526,10 +531,10 @@ blockquote p {
 }
 p {
   margin: 0 0 1.4rem;
-  padding-bottom: 1em;
 }
-p + p {
-  margin-top: -1.4rem;
+ul,
+ol {
+  margin: -0.8em 0 1em;
 }
 tt,
 code,

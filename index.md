@@ -68,11 +68,11 @@ wealth of experience and inspiration to his songleading, borne of his 70+
 years of music making. Village Fire 2014 will feature many of his songs, and
 his presence will make this an unforgettable year. 
 
-Laurence says we're
+Laurence says we're…
 
 #### Singing Together to Nourish the Soul and Re-enchant the world with song…
 
-<blockquote style="text-align: left">
+<blockquote class="textquote">
 Part of my mission is to re-acquaint people with their birthright and natural
 ability to make beautiful and meaningful sound together. Most of the songs
 I’ve written are short, easy to learn, chant-like songs with several layers
@@ -91,27 +91,37 @@ genuine communion.
 ## The Schedule (more details to come)
 
 Thursday, May 29: 
-* Greeters at the Welcome Table will be watching for you between 2:00 and 5:00. They will help you find your way around and begin meeting others at our gathering. You may arrive anytime all day, even at 8am 
-* At 5pm gather for Opening Circle and Celebration of What’s to Come.
-* Our first shared meal is a Thursday evening potluck at 6pm. 
+
+* Greeters at the Welcome Table will be watching for you between 2 p.m. and 5
+  p.m. They will help you find your way around and begin meeting others at our
+  gathering. You may arrive anytime all day, even at 8a.m. 
+* At 5 p.m. gather for Opening Circle and Celebration of What’s to Come.
+* Our first shared meal is a Thursday evening potluck at 6 p.m. 
 * At night we’ll gather around the fire for open song sharing. 
 
-Friday, May 30 and Sat, May 31: 
-* Three great meals served at 8am, noon, and 5pm. Bring snacks for between-times. 
-* During the daytimes our songleaders offer a variety of themed song sessions, from relaxed to rousing. Every song is accessible and taught to all, mostly by ear. 
+Friday, May 30 and Saturday, May 31: 
+
+* Three great meals served at 8am, noon, and 5pm. Bring snacks for
+  between-times. 
+* During the daytimes our songleaders offer a variety of themed song sessions,
+  from relaxed to rousing. Every song is accessible and taught to all, mostly
+  by ear. 
 * Children’s activities are offered off and on during the day.
 * Games, creek play, and more…
-* By the evening fires we gather again to share still more songs, taking turns among any who have a song to lead or suggest. Be you a learner or a leader, you are warmly welcomed.
+* By the evening fires we gather again to share still more songs, taking turns
+  among any who have a song to lead or suggest. Be you a learner or a leader,
+  you are warmly welcomed.
 
-Friday night Special:<br/> 
+Friday night Special:
 
 Come dance with friends new and old! Decorah’s own Eric Sessions, John Goodin,
 and Rob Hervey will play their fiddle, guitar, and mandolin for a good
 old-fashioned contradance, called by Bill Deutsch. 
 
-Sunday, June 1: 
+Sunday, June 1:
+
 * Breakfast and lunch served, Song Circles in the morning, and closing circle
-  at 2pm. We really hope you’ll be able to stay through the closing circle,
+  at 2 p.m. We really hope you’ll be able to stay through the closing circle,
   which is always quite lovely. 
 
 
@@ -147,18 +157,14 @@ family.
 
 * Camp in your tent either right near to base camp or down the path in a more
   secluded area. 
-
 * Stay at ‘Polly’s Place’, a group of 4 cabins with 8 bunks each. 2 cabins for
   women, 1 for men, one mixed. This is about a 5 minute walk from base camp.
   Fire circle, electricity, no kitchen, shower house and toilets.
-
 * Stay right at the ‘Main Lodge’, in the same building as the kitchen, where
   there are 30 beds. Upstairs women, Downstairs men. 
-
 * Stay at the ‘Staff House’ (no staff there while we're at camp) where there
   are 10 double futons downstairs. There are indoor toilets and showers and a
   small kitchen, and electricity.  Men and women.
-
 * Stay in the ‘Tree Houses’ (wooden houses on stilts) about 15 minutes walk
   from base camp. There are 9 of them, each sleeping 4 people.  Bathrooms,
   showers, electricity, fire circle.  Men and Women.
@@ -171,8 +177,9 @@ met; please help us do so by sharing your needs in advance.
 ## Food  
 
 Tasty whole food meals will be provided by friend of Village Fire Ruth
-Hampton. (More about Ruth here, [troutrivercatering.com] and here
-[awesomecookery.com]) Ruth will prepare 8 meals, Friday breakfast through
+Hampton. (More about Ruth at
+[troutrivercatering.com](http://troutrivercatering.com) and 
+[awesomecookery.com](http://awesomecookery.com)) Ruth will prepare 8 meals, Friday breakfast through
 Sunday lunch, for up to 150 people. All meals will be vegetarian, with options
 that are dairy free and gluten free.  More info about the menu will be
 available by April 15. 
@@ -194,11 +201,8 @@ We offer a sliding scale, knowing that all will pay as they are able and thus
 help our event sustain itself.
 
 * Adults, with meals: $80 - $160
-
 * Kids 11 and under, with meals: $40 - $80
-
 * Adults, bringing your own food: $50 - $100
-
 * Kids 11 and under, bringing your own food: $25 - $50
 
 ## How Our Schedule Works
@@ -257,7 +261,5 @@ Help for a few hours or more, as you are able, with:
 * Tending the Coffee/tea station
 * If you have experience with Theatre of the Oppressed, we want to talk to you
   about ideas for your presence at Village Fire. 
-
-
 
 > Come let us wrap ourselves in all of these things.

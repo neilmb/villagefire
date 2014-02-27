@@ -16,17 +16,17 @@ h1 {
 h2 {
 	.font-rem(48);
 	background-color: @basecolor;
-	margin-left: -15px;
-	padding-left: 15px;
-	padding-right: 15px;
-    width: 400px;
+	align: center;
+	text-align: center;
     .rounded(9px);
+    padding: 8px 0;
 }
 h3 {
 	.font-rem(36)
 }
 h4 {
-	.font-rem(36)
+	.font-rem(36);
+	margin: -0.8em 0 0;
 }
 h5 {
 	.font-rem(24)
@@ -109,6 +109,11 @@ blockquote {
 	    margin: 0 0;
 	}
 }
+.textquote {
+    text-align: left;
+    padding: 1.2em 1.5em;
+    font-size: 100%;
+}
 
 // Footnotes
 // --------------------------------------------------
@@ -123,12 +128,17 @@ blockquote {
 // --------------------------------------------------
 p {
 	margin: 0 0 @indent-var;
-	padding-bottom: 1em;
 	& + p {
 		//siblings indentation
 		//qtext-indent: @indent-var;
-		margin-top: -(@indent-var);
+	//	margin-top: -(@indent-var);
 	}
+}
+
+// Lists
+// --------------------------------------------------
+ul, ol {
+    margin: -0.8em 0 1em;
 }
 
 // Code
