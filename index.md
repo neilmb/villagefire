@@ -263,5 +263,16 @@ Help for a few hours or more, as you are able, with:
 * Tending the Coffee/tea station
 * If you have experience with Theatre of the Oppressed, we want to talk to you
   about ideas for your presence at Village Fire. 
+* Are you a drummer? Come ready to use what you’ve got! 
+
+## We Want to Hear Your Ideas
+
+On the <a href="http://www.eventbrite.com/event?eid=10717304747">Registration
+Form</a> you can tell us more about your own thoughts and ideas for Village
+Fire as well as any special needs you might have.
+
+For questions and comments before and after you register, please contact Liz
+Rog at <a href="mailto:liz@decorahnow.com">liz@decorahnow.com</a> or
+563-382-8013.
 
 <div style="text-align:center;color:#8F0000">Come let us wrap ourselves in all of these things.</div>

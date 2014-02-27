@@ -999,6 +999,9 @@ img {
   -moz-border-radius: 9px;
   border-radius: 9px;
 }
+.noround {
+  border-radius: 0;
+}
 .headbox {
   margin-top: 0;
   padding-top: 2em;
@@ -1048,16 +1051,19 @@ img {
 }
 .headbox #twocolumn #right h1 {
   margin-top: 0;
-  margin-bottom: 0.3em;
+  margin-bottom: 0;
 }
 .headbox #twocolumn #right h2 {
   margin-top: 0;
-  margin-bottom: 0.4em;
-  background-color: #ffcc99;
+  margin-bottom: 10px;
 }
 .headbox #twocolumn #right h3 {
   padding-top: 0px;
-  margin-top: 0px;
+  margin: 0;
+}
+.headbox #twocolumn #right h4 {
+  margin-top: 10px;
+  margin-bottom: 0px;
 }
 .headbox #btn {
   text-align: center;

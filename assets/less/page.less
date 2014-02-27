@@ -13,6 +13,9 @@ body {
 img {
     .rounded(9px);
 }
+.noround {
+    border-radius: 0;
+}
 .headbox {
     margin-top: 0;
     padding-top: 2em;
@@ -46,16 +49,19 @@ img {
 
         h1 {
           margin-top: 0;
-          margin-bottom: 15px;
+          margin-bottom: 0;
         }
         h2 {
           margin-top: 0;
-          margin-bottom: 0.4em;
-          background-color: lighten(@basecolor, 20%);
+          margin-bottom: 10px;
         }
         h3 {
           padding-top: 0px;
-          margin-top: 0px;
+          margin: 0;
+        }
+        h4 {
+          margin-top: 10px;
+          margin-bottom: 0px
         }
       }
     }
