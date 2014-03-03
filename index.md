@@ -58,8 +58,9 @@ communities. In the spirit of bringing more singing into every nook and cranny
 of our country, a group discussion will be held to exchange ideas about
 community songleading for our times. 
 
-More details, including the unveiling of the roster of songleaders, will be
-announced in the weeks to come. 
+Songleaders include [Barbara McAfee](http://barbaramcafee.com), Francis Gurtz and Colette Miller,
+Ellen Rockne, and Liz Rog. More songleaders will be announced in the 
+weeks to come.
 
 
 <img style="float:right" src="images/laurence.jpg">
