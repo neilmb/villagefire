@@ -186,8 +186,8 @@ Sunday lunch, for up to 150 people. All meals will be vegetarian, with options
 that are dairy free and gluten free.  More info about the menu will be
 available by April 15. 
 
-If you would like to eat the food prepared at camp, you need to register by
-May 18. 
+**If you would like to eat the food prepared at camp, you need to register by
+May 18.** 
 
 If you prefer, you are also welcome to bring food and a campstove and make
 your own food. 
