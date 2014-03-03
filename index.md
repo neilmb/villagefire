@@ -16,6 +16,8 @@ beautiful setting amongst the ancient bluffs of the Driftless, where a creek
 runs through the center and we eat real food made with soul. Play, sing,
 dance, and rest your bones by the fire. 
 
+<div class="center"><img src="images/kidsdance.jpg"/></div>
+
 We’ll sing songs to gather people and explore the ways we can use singing to
 deepen our sense of communion with each other and our sacred respect and
 wonder in the face of all nature. We’ll sing easy-to-learn, playfully
@@ -40,6 +42,8 @@ How do we go beyond sustainability and learn to thrive again? How do we
 entertain, inspire, create? How do we make connection with each other without
 elaborate technology, using simply the inner resources we were born with?
 
+<div class="center"><img src="images/bigcircle.jpg"/></div>
+
 We raise our voices together in songs that celebrate love, diversity, power,
 the rhythms of the year, and the circle of life. We sing songs for times when
 comfort is needed, and songs that remind us of our ancestors. We sing songs to
@@ -58,9 +62,9 @@ communities. In the spirit of bringing more singing into every nook and cranny
 of our country, a group discussion will be held to exchange ideas about
 community songleading for our times. 
 
-Songleaders include [Barbara McAfee](http://barbaramcafee.com), Francis Gurtz and Colette Miller,
-Ellen Rockne, and Liz Rog. More songleaders will be announced in the 
-weeks to come.
+Songleaders include [Barbara McAfee](http://barbaramcafee.com), Francis Gurtz
+and Colette Miller, Ellen Rockne, and Liz Rog. More songleaders will be
+announced in the weeks to come.
 
 
 <img style="float:right" src="images/laurence.jpg">
@@ -134,6 +138,9 @@ to meet new friends. Time to sit around the campfire. Time to go wading in the
 creek. Time to stretch or practice yoga. Time to tell stories and jokes. Time
 to eat slow meals. Time to relax. Time to re-create our world in love and joy. 
 
+<div class="center"><img src="images/kidsplay.jpg"/></div>
+
+
 ## Who is Invited?   
 
 Everyone is welcome. No singing background is necessary whatsoever. We will be
@@ -142,6 +149,8 @@ we'll sound together. We will be a mix of city and rural people, and we will
 love getting to know each other. We will be a combination of many backgrounds,
 and we will be glad for it all. We will be a mix of old, young, and in-between
 people, befriending each other through the play of song. 
+
+<div class="center"><img src="images/circle.jpg"/></div>
 
 ## The Setting  
 
@@ -176,6 +185,8 @@ family.
 
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
+
+<div class="center"><img src="images/welcome.jpg"/></div>
 
 ## Food  
 
@@ -268,6 +279,8 @@ Help for a few hours or more, as you are able, with:
 
 ## We Want to Hear Your Ideas
 
+<div style="float:right;"><img src="images/liz.jpg" width="150"/></div>
+
 On the <a href="http://www.eventbrite.com/event?eid=10717304747">Registration
 Form</a> you can tell us more about your own thoughts and ideas for Village
 Fire as well as any special needs you might have.
@@ -276,4 +289,4 @@ For questions and comments before and after you register, please contact Liz
 Rog at <a href="mailto:liz@decorahnow.com">liz@decorahnow.com</a> or
 563-382-8013.
 
-<div style="text-align:center;color:#8F0000">Come let us wrap ourselves in all of these things.</div>
+<div style="text-align:center;clear:both;color:#8F0000">Come let us wrap ourselves in all of these things.</div>
