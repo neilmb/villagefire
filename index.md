@@ -159,7 +159,7 @@ hardwood forests, limestone cliffs, caves, and a meandering trout stream. From
 the moment we arrive we will begin to create the community we love, welcoming
 each other and opening our circles to include all. We will make a home there
 and work together to care for the land, water, creatures, and people of our
-community.
+community.  [Click here for a map.](https://goo.gl/maps/9v8wp)
 
 ## Lodging
 
