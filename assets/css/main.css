@@ -448,6 +448,7 @@ h5 {
 h6 {
   font-size: 24px;
   font-size: 1.2rem;
+  margin: 10px 0 -0.8em;
 }
 a {
   text-decoration: none;
@@ -1005,6 +1006,7 @@ img {
 .headbox {
   margin-top: 0;
   padding-top: 2em;
+  padding-bottom: 1em;
   background-color: #ffcc99;
   border-top: 1em solid #ff9933;
   border-bottom: 3px solid #8f0000;
