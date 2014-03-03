@@ -74,19 +74,19 @@ Laurence says we're…
 ##### Singing Together to Nourish the Soul and Re-enchant the world with song…
 
 <blockquote class="textquote">
-Part of my mission is to re-acquaint people with their birthright and natural
+“Part of my mission is to re-acquaint people with their birthright and natural
 ability to make beautiful and meaningful sound together. Most of the songs
 I’ve written are short, easy to learn, chant-like songs with several layers
 that fit over and around each other in interesting and pleasurable rhythmic
 and harmonic challenges that make them fun to sing. Group singing is one of
-the most ancient and primal “technologies of belonging” that we humans have
+the most ancient and primal ‘technologies of belonging’ that we humans have
 been using since our earliest times, possibly before speech itself. When we
 make joyous and passionate song together, it nourishes our souls and offers an
 enlivening gift back to the natural world that made us and gives us our
 sustenance and our very being. When such an exchange is genuinely made, and
 the song finds its natural ending, often there is a sweet, lively silence in
-which we simply stand and hold the “enchantment,” the sense of deep and
-genuine communion.
+which we simply stand and hold the ‘enchantment,’ the sense of deep and
+genuine communion.”
 </blockquote>
 
 ## The Schedule (more details to come)
