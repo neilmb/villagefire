@@ -120,7 +120,7 @@ genuine communion.”
 
 **Friday night Special**
 
-Come dance with friends new and old! Decorah’s own Eric Sessions, John Goodin,
+Come dance with friends new and old! Decorah’s own Erik Sessions, John Goodin,
 and Rob Hervey will play their fiddle, guitar, and mandolin for a good
 old-fashioned contradance, called by Bill Deutsch. 
 
