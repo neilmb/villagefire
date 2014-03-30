@@ -281,7 +281,7 @@ Help for a few hours or more, as you are able, with:
 
 <div style="float:right;"><img src="images/liz.jpg" width="150"/></div>
 
-On the <a href="http://www.eventbrite.com/event?eid=10717304747">Registration
+On the <a href="http://www.eventbrite.com/e/village-fire-2014-tickets-10717304747">Registration
 Form</a> you can tell us more about your own thoughts and ideas for Village
 Fire as well as any special needs you might have.
 
