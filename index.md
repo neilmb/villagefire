@@ -177,9 +177,10 @@ family.
 * Stay at the ‘Staff House’ (no staff there while we're at camp) where there
   are 10 double futons downstairs. There are indoor toilets and showers and a
   small kitchen, and electricity.  Men and women mixed.
-* Stay in the ‘Tree Houses’ (wooden houses on stilts) about 15 minutes walk
-  from base camp. There are 9 of them, each sleeping 4 people.  Bathrooms,
-  showers, electricity, fire circle.  Men and Women mixed.
+* Stay in the ‘Tree Houses’ (they are not actually up in trees; they are
+  simply wooden houses on stilts) about 15 minutes walk from base camp. There
+  are 9 of them, each sleeping 4 people.  Bathrooms, showers, electricity,
+  fire circle.  Men and Women mixed.
 
 ## Accessibilty   
 
