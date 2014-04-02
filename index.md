@@ -68,7 +68,7 @@ announced in the weeks to come.
 
 
 <img style="float:right" src="images/laurence.jpg">
-Very Special 2014 Guest Laurence Cole  comes from Port Townsend, Washington to
+Very special 2014 guest Laurence Cole  comes from Port Townsend, Washington to
 share with us his wonderful songs and powerful leadership. Laurence brings a
 wealth of experience and inspiration to his songleading, borne of his 70+
 years of music making. Village Fire 2014 will feature many of his songs, and
