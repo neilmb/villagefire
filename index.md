@@ -62,11 +62,6 @@ communities. In the spirit of bringing more singing into every nook and cranny
 of our country, a group discussion will be held to exchange ideas about
 community songleading for our times. 
 
-Songleaders include [Barbara McAfee](http://barbaramcafee.com), Francis Gurtz
-and Colette Miller, Ellen Rockne, and Liz Rog. More songleaders will be
-announced in the weeks to come.
-
-
 <img style="float:right" src="images/laurence.jpg">
 Very special 2014 guest Laurence Cole  comes from Port Townsend, Washington to
 share with us his wonderful songs and powerful leadership. Laurence brings a
@@ -93,6 +88,50 @@ the song finds its natural ending, often there is a sweet, lively silence in
 which we simply stand and hold the ‘enchantment,’ the sense of deep and
 genuine communion.”
 </blockquote>
+
+### More Village Fire 2014 Songleaders
+
+**Lia Falls** is a mom, a singer, a teacher and a songwriter. She teaches Vocal
+Playground/Yoga of the Voice classes (Yoga of the Voice as developed by Silvia
+Nakkach and the Vox Mundi Project)  in Minnesota and Wisconsin and leads
+regular community song circles.  Coming from the heart of an explorer,
+listening, curiosity, and devotion are her guiding principles. Believing that
+there is no such thing as a person who can’t sing,  Lia is devoted to creating
+a safe place for people to use their voices.  
+
+**Barbara McAfee** is a native Minnesotan, a singer/songwriter with seven CDs,
+founder of the Morning Star Singers (Comfort Choir), voice coach, author of
+Full Voice: The Art and Practice of Vocal Presence, and a relentless community
+song leader.  She can’t quite believe she gets to do all of this…and is
+grateful.  www.barbaramcafee.com
+
+**Colette Miller** and **Francis Gurtz**, life partners since 1985, have a shared
+interest in Dances of Universal Peace, Early American shape note singing,
+drumming, and silent worship with Friends at Quaker Meeting. They also co-lead
+a hospice choir in Rochester, bringing song twice a month to those at the end
+of life.  They especially enjoy music that is participatory.  They  love the
+laughter, the tears, and the community built with song - which often speaks
+where words fail.
+
+**Ellen Rockne** lives in her beloved Decorah, where she songleads, sings and
+works with StoryPeople, an art company she co-founded.  She will be leading
+monthly Wonder Choir Sundays this summer, in conjunction with the Northeast
+Iowa Unitarian Universalist Fellowship. She also co-leads the weekly Community
+Sing in Decorah with Liz Rog.
+
+**Liz Rog** lives to twine her voice with those of others in the Driftless and
+beyond. She leads a variety of community singing groups in Decorah, IA and
+loves Village Fire because of the cross-pollination of voices and ideas among
+so many grassroots movers and shakers, all the spirit we raise, and all the
+connections we make that last forever.
+
+**Elizabeth “Libby” Turner-Opanga** is an active musician in Minnesota.  She is
+dedicated to teaching and experiencing as much music as possible all over the
+world, and shares her love of music enthusiastically with people of all
+colors, cultures and musical tastes. She works with various Twin Cities
+community-based choirs and artists.
+
+
 
 ## The Schedule (more details to come)
 
