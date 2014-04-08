@@ -988,16 +988,11 @@ body {
   font-family: 'Averia Libre', serif;
   font-color: #333332;
   font-size: 20px;
-  background-image: url("vf_banner.jpg");
-  background-position: top;
-  background-size: contain;
-  background-repeat: no-repeat;
 }
 #index {
   margin-left: 12%;
   margin-right: 12%;
   margin-bottom: 2em;
-  margin-top: 2em;
 }
 img {
   -webkit-border-radius: 9px;
@@ -1012,16 +1007,24 @@ index img {
   text-align: center;
   margin-bottom: 1em;
 }
+#background {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.stretch {
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+}
 .noround {
   border-radius: 0;
 }
 .headbox {
-  margin-top: 400px;
-  padding-top: 2em;
-  padding-bottom: 1em;
-  background-color: #ffcc99;
-  border-top: 1em solid #ff9933;
-  border-bottom: 3px solid #8f0000;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 1em;
   *zoom: 1;
 }
 .headbox:before,
@@ -1051,11 +1054,7 @@ index img {
   margin-right: 10px;
   float: left;
 }
-.headbox #twocolumn #left img {
-  width: 400px;
-}
 .headbox #twocolumn #left p {
-  margin-top: 1em;
   text-align: center;
 }
 .headbox #twocolumn #right {
@@ -1078,6 +1077,9 @@ index img {
 .headbox #twocolumn #right h4 {
   margin-top: 10px;
   margin-bottom: 0px;
+}
+.headbox #twocolumn #right p {
+  margin-top: 1em;
 }
 .headbox #btn {
   text-align: center;
