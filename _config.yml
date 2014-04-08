@@ -5,6 +5,7 @@ baseurl: "http://villagefiresinging.com"
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
+markdown: kramdown
 kramdown:
   auto_ids: true
   footnote_nr: 1
