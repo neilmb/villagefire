@@ -131,6 +131,14 @@ world, and shares her love of music enthusiastically with people of all
 colors, cultures and musical tastes. She works with various Twin Cities
 community-based choirs and artists.
 
+**Louise Jarvis** has loved singing and harmonizing all her life. After
+co-directing a choir on Hornby Island, BC, she went on to study conducting at
+Capilano University, and also Community Choir Leadership Training with the
+Ubuntu Choirs Network in Victoria, BC. Now living in Owen Sound, Ontario, she
+leads a community choir called OSSIA, and facilitates singing for people
+living with dementia and their families. She believes that singing is pure joy
+and the best way to connect with others.
+
 
 
 ## The Schedule (more details to come)
