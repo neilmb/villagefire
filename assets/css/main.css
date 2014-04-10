@@ -1003,6 +1003,16 @@ index img {
   display: block;
   margin: auto;
 }
+.wrapleft {
+  display: inline;
+  float: left;
+  margin-right: 0.5em;
+}
+.wrapright {
+  display: inline;
+  float: right;
+  margin-left: 0.5em;
+}
 .center {
   text-align: center;
   margin-bottom: 1em;
@@ -1084,7 +1094,7 @@ index img {
   margin-top: 2em;
   margin-bottom: 2em;
 }
-.headbox a {
+.headbox #btn a {
   border: 3px solid #8f0000;
   -webkit-border-radius: 14px;
   -moz-border-radius: 14px;

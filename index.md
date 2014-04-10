@@ -16,7 +16,7 @@ beautiful setting amongst the ancient bluffs of the Driftless, where a creek
 runs through the center and we eat real food made with soul. Play, sing,
 dance, and rest your bones by the fire. 
 
-<div class="center"><img src="images/kidsdance.jpg"/></div>
+<div class="center"><img src="images/songfire.jpg"/></div>
 
 We’ll sing songs to gather people and explore the ways we can use singing to
 deepen our sense of communion with each other and our sacred respect and
@@ -91,6 +91,8 @@ genuine communion.”
 
 ### More Village Fire 2014 Songleaders
 
+<img class="wrapleft" src="images/lia.jpg"/>
+
 **Lia Falls** is a mom, a singer, a teacher and a songwriter. She teaches Vocal
 Playground/Yoga of the Voice classes (Yoga of the Voice as developed by Silvia
 Nakkach and the Vox Mundi Project)  in Minnesota and Wisconsin and leads
@@ -99,11 +101,14 @@ listening, curiosity, and devotion are her guiding principles. Believing that
 there is no such thing as a person who can’t sing,  Lia is devoted to creating
 a safe place for people to use their voices.  
 
+
+<img class="wrapleft" src="images/barbara.jpg">
+
 **Barbara McAfee** is a native Minnesotan, a singer/songwriter with seven CDs,
 founder of the Morning Star Singers (Comfort Choir), voice coach, author of
 Full Voice: The Art and Practice of Vocal Presence, and a relentless community
 song leader.  She can’t quite believe she gets to do all of this…and is
-grateful.  www.barbaramcafee.com
+grateful.  <a href="http://www.barabaramcafee.com">www.barbaramcafee.com</a>
 
 **Colette Miller** and **Francis Gurtz**, life partners since 1985, have a shared
 interest in Dances of Universal Peace, Early American shape note singing,
@@ -113,23 +118,32 @@ of life.  They especially enjoy music that is participatory.  They  love the
 laughter, the tears, and the community built with song - which often speaks
 where words fail.
 
+<img class="wrapleft" src="images/ellen.jpg">
+
 **Ellen Rockne** lives in her beloved Decorah, where she songleads, sings and
 works with StoryPeople, an art company she co-founded.  She will be leading
 monthly Wonder Choir Sundays this summer, in conjunction with the Northeast
 Iowa Unitarian Universalist Fellowship. She also co-leads the weekly Community
 Sing in Decorah with Liz Rog.
 
+<img class="wrapleft" src="images/liz2.jpg">
+
 **Liz Rog** lives to twine her voice with those of others in the Driftless and
 beyond. She leads a variety of community singing groups in Decorah, IA and
 loves Village Fire because of the cross-pollination of voices and ideas among
 so many grassroots movers and shakers, all the spirit we raise, and all the
 connections we make that last forever.
+<br style="clear:left;"/>
+
+<img class="wrapleft" src="images/libby.jpg">
 
 **Elizabeth “Libby” Turner-Opanga** is an active musician in Minnesota.  She is
 dedicated to teaching and experiencing as much music as possible all over the
 world, and shares her love of music enthusiastically with people of all
 colors, cultures and musical tastes. She works with various Twin Cities
 community-based choirs and artists.
+
+<img class="wrapleft" src="images/louise.jpg">
 
 **Louise Jarvis** has loved singing and harmonizing all her life. After
 co-directing a choir on Hornby Island, BC, she went on to study conducting at
@@ -141,7 +155,9 @@ and the best way to connect with others.
 
 
 
-## The Schedule (more details to come)
+## The Schedule
+
+<img class="wrapleft" src="images/VFyoungppl.jpg"/>
 
 **Thursday, May 29** 
 
@@ -165,9 +181,9 @@ and the best way to connect with others.
   among any who have a song to lead or suggest. Be you a learner or a leader,
   you are warmly welcomed.
 
-**Friday night Special**
+<span style="color: #8F0000"><b>Friday Night Old Time Dance</b></span>
 
-Come dance with friends new and old! Decorah’s own Erik Sessions, John Goodin,
+**Come dance with friends new and old!** Decorah’s own Erik Sessions, John Goodin,
 and Lucas Blekeberg will play their fiddle, guitar, and mandolin for a good
 old-fashioned contradance, called by Bill Deutsch. 
 
@@ -197,7 +213,7 @@ love getting to know each other. We will be a combination of many backgrounds,
 and we will be glad for it all. We will be a mix of old, young, and in-between
 people, befriending each other through the play of song. 
 
-<div class="center"><img src="images/circle.jpg"/></div>
+<div class="center"><img src="images/VFyoungppl2.jpg"/></div>
 
 ## The Setting  
 
@@ -234,7 +250,7 @@ family.
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
 
-<div class="center"><img src="images/welcome.jpg"/></div>
+<div class="center"><img src="images/kidsdance.jpg"/></div>
 
 ## Food  
 
