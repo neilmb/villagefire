@@ -998,6 +998,7 @@ img {
   -webkit-border-radius: 9px;
   -moz-border-radius: 9px;
   border-radius: 9px;
+  border: 2px solid #8f0000;
 }
 index img {
   display: block;
@@ -1007,11 +1008,7 @@ index img {
   display: inline;
   float: left;
   margin-right: 0.5em;
-}
-.wrapright {
-  display: inline;
-  float: right;
-  margin-left: 0.5em;
+  clear: left;
 }
 .center {
   text-align: center;
@@ -1021,6 +1018,9 @@ index img {
   width: 100%;
   padding: 0;
   margin: 0;
+}
+#background img {
+  border: none;
 }
 .stretch {
   min-width: 100%;

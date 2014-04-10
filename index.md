@@ -110,6 +110,9 @@ Full Voice: The Art and Practice of Vocal Presence, and a relentless community
 song leader.  She can’t quite believe she gets to do all of this…and is
 grateful.  <a href="http://www.barabaramcafee.com">www.barbaramcafee.com</a>
 
+
+<img class="wrapleft" width="150" src="images/gurtzmiller.jpg">
+
 **Colette Miller** and **Francis Gurtz**, life partners since 1985, have a shared
 interest in Dances of Universal Peace, Early American shape note singing,
 drumming, and silent worship with Friends at Quaker Meeting. They also co-lead
@@ -293,6 +296,8 @@ self-organizing sometimes known as Open Space Technology, and our use of it
 brings forth the best of our skills and passions. You’ll be glad to be part of
 this way. 
 
+<div class="center"><img src="images/kaj.jpg"/></div>
+
 Some themes and specialties of last year’s regional songleaders included:
 
 * *Songs for Ritual and Celebration.* These are simple songs you'll be able to
@@ -345,8 +350,8 @@ Help for a few hours or more, as you are able, with:
 
 <div style="float:right;"><img src="images/liz.jpg" width="150"/></div>
 
-On the <a href="http://www.eventbrite.com/e/village-fire-2014-tickets-10717304747">Registration
-Form</a> you can tell us more about your own thoughts and ideas for Village
+On the <a href="http://www.eventbrite.com/e/village-fire-2014-tickets-10717304747">online registration
+form</a> you can tell us more about your own thoughts and ideas for Village
 Fire as well as any special needs you might have.
 
 For questions and comments before and after you register, please contact Liz
