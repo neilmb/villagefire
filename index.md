@@ -282,8 +282,8 @@ Hampton. (More about Ruth at
 [troutrivercatering.com](http://troutrivercatering.com) and 
 [awesomecookery.com](http://awesomecookery.com)) Ruth will prepare 8 meals, Friday breakfast through
 Sunday lunch, for up to 150 people. All meals will be vegetarian, with options
-that are dairy free and gluten free.  More info about the menu will be
-available by April 15. 
+that are dairy free and gluten free.  [Click here](images/menu.pdf) to see the
+entire menu.
 
 **If you would like to eat the food prepared at camp, you need to register by
 May 18.** 
