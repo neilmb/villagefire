@@ -8,13 +8,13 @@ Words and music need only breath and spirit to live. --Pete Seeger
 
 Do you long to twine your voice with others in song? Do you love to be outside
 among trees, water, and sky?  Do you know the pleasure of gathering with
-people of all ages? 
+people of all ages?
 
 Come join the growing global community movement that is knitting the world
 together through songs of love, play, spirit, and freedom. Nestle into a
 beautiful setting amongst the ancient bluffs of the Driftless, where a creek
 runs through the center and we eat real food made with soul. Play, sing,
-dance, and rest your bones by the fire. 
+dance, and rest your bones by the fire.
 
 <div class="center"><img src="images/songfire.jpg"/></div>
 
@@ -27,7 +27,7 @@ of shared meaning.
 
 Learn with songleaders whose love for group singing inspires us all. Relax
 into the voice you were born to sing with as we share beautiful, fun, simple
-songs that can reshape our world. 
+songs that can reshape our world.
 
 <blockquote>
 We are the gift between earth and heaven<br/>
@@ -60,14 +60,14 @@ communities to teach to us. Opportunities abound for other emerging
 songleaders as well, as all are welcomed to share the songs of their
 communities. In the spirit of bringing more singing into every nook and cranny
 of our country, a group discussion will be held to exchange ideas about
-community songleading for our times. 
+community songleading for our times.
 
 <img style="float:right" src="images/laurence.jpg">
 Very special 2014 guest Laurence Cole  comes from Port Townsend, Washington to
 share with us his wonderful songs and powerful leadership. Laurence brings a
 wealth of experience and inspiration to his songleading, borne of his 70+
 years of music making. Village Fire 2014 will feature many of his songs, and
-his presence will make this an unforgettable year. 
+his presence will make this an unforgettable year.
 
 Laurence says we're…
 
@@ -164,7 +164,7 @@ and let the wild human medicine of song weave through the everyday air! She
 brings story songs and silly songs, songs of this new and changing time and
 songs from the time of ancestors, songs that are easy to learn and make
 beautiful. She believes that singing is essential as we find our wild place in
-the hum of nature. 
+the hum of nature.
 <br style="clear:left;"/>
 
 
@@ -173,22 +173,22 @@ the hum of nature.
 
 <img class="wrapleft" src="images/VFyoungppl.jpg"/>
 
-**Thursday, May 29** 
+**Thursday, May 29**
 
 * Greeters at the Welcome Table will be watching for you between 2 p.m. and 5
   p.m. They will help you find your way around and begin meeting others at our
-  gathering. You may arrive anytime all day, even at 8a.m. 
+  gathering. You may arrive anytime all day, even at 8a.m.
 * At 5 p.m. gather for Opening Circle and Celebration of What’s to Come.
-* Our first shared meal is a Thursday evening potluck at 6 p.m. 
-* At night we’ll gather around the fire for open song sharing. 
+* Our first shared meal is a Thursday evening potluck at 6 p.m.
+* At night we’ll gather around the fire for open song sharing.
 
-**Friday, May 30 and Saturday, May 31** 
+**Friday, May 30 and Saturday, May 31**
 
 * Three great meals served at 8am, noon, and 5pm. Bring snacks for
-  between-times. 
+  between-times.
 * During the daytimes our songleaders offer a variety of themed song sessions,
   from relaxed to rousing. Every song is accessible and taught to all, mostly
-  by ear. 
+  by ear.
 * Children’s activities are offered off and on during the day.
 * Games, creek play, and more…
 * By the evening fires we gather again to share still more songs, taking turns
@@ -199,13 +199,13 @@ the hum of nature.
 
 **Come dance with friends new and old!** Decorah’s own Erik Sessions, John Goodin,
 and Lucas Blekeberg will play their fiddle, guitar, and mandolin for a good
-old-fashioned contradance, called by Bill Deutsch. 
+old-fashioned contradance, called by Bill Deutsch.
 
 **Sunday, June 1**
 
 * Breakfast and lunch served, Song Circles in the morning, and closing circle
   at 2 p.m. We really hope you’ll be able to stay through the closing circle,
-  which is always quite lovely. 
+  which is always quite lovely.
 
 
 ## What Else?
@@ -213,23 +213,23 @@ old-fashioned contradance, called by Bill Deutsch.
 Time for walking around in the woods. Time to play games and run around. Time
 to meet new friends. Time to sit around the campfire. Time to go wading in the
 creek. Time to stretch or practice yoga. Time to tell stories and jokes. Time
-to eat slow meals. Time to relax. Time to re-create our world in love and joy. 
+to eat slow meals. Time to relax. Time to re-create our world in love and joy.
 
 <div class="center"><img src="images/kidsplay.jpg"/></div>
 
 
-## Who is Invited?   
+## Who is Invited?  
 
 Everyone is welcome. No singing background is necessary whatsoever. We will be
 a mix of experienced singers and new singers, and you won't believe how great
 we'll sound together. We will be a mix of city and rural people, and we will
 love getting to know each other. We will be a combination of many backgrounds,
 and we will be glad for it all. We will be a mix of old, young, and in-between
-people, befriending each other through the play of song. 
+people, befriending each other through the play of song.
 
 <div class="center"><img src="images/VFyoungppl2.jpg"/></div>
 
-## The Setting  
+## The Setting 
 
 Camp Tahigwa in Northeast Iowa is an old camp on 300 acres of expansive hills,
 hardwood forests, limestone cliffs, caves, and a meandering trout stream. From
@@ -245,12 +245,12 @@ same sliding fee scale. You are welcome to reserve spaces with friends and
 family.
 
 * Camp in your tent either right near to base camp or down the path in a more
-  secluded area. 
+  secluded area.
 * Stay at ‘Polly’s Place’, a group of 4 cabins with 8 bunks each. 2 cabins for
   women, 1 for men, one mixed. This is about a 5 minute walk from base camp.
   Fire circle, electricity, no kitchen, shower house and toilets.
 * Stay right at the ‘Main Lodge’, in the same building as the kitchen, where
-  there are 30 beds. Upstairs women, Downstairs men. 
+  there are 30 beds. Upstairs women, Downstairs men.
 * Stay at the ‘Staff House’ (no staff there while we're at camp) where there
   are 10 double futons downstairs. There are indoor toilets and showers and a
   small kitchen, and electricity.  Men and women mixed.
@@ -259,7 +259,7 @@ family.
   are 9 of them, each sleeping 4 people.  Bathrooms, showers, electricity,
   fire circle.  Men and Women mixed.
 
-## Accessibilty   
+## Accessibilty  
 
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
@@ -268,32 +268,32 @@ met; please help us do so by sharing your needs in advance.
 
 Village Fire is excited this year to introduce a KiD’s TeNt! Maybe there are
 some ways you can help us, either by loaning some fun things or by helping out
-at the tent. [Click here](images/kidstent.pdf) to see what we're looking for. 
+at the tent. [Click here](images/kidstent.pdf) to see what we're looking for.
 
 If you can help with any of these things, please contact Sara Mathes,
 sstanek@gmail.com, or call her at 608-632-0719. Thank you!
 
 <div class="center"><img src="images/kidsdance.jpg"/></div>
 
-## Food  
+## Food 
 
 Tasty whole food meals will be provided by friend of Village Fire Ruth
 Hampton. (More about Ruth at
-[troutrivercatering.com](http://troutrivercatering.com) and 
+[troutrivercatering.com](http://troutrivercatering.com) and
 [awesomecookery.com](http://awesomecookery.com)) Ruth will prepare 8 meals, Friday breakfast through
 Sunday lunch, for up to 150 people. All meals will be vegetarian, with options
 that are dairy free and gluten free.  More info about the menu will be
-available by April 15. 
+available by April 15.
 
 **If you would like to eat the food prepared at camp, you need to register by
-May 18.** 
+May 18.**
 
 If you prefer, you are also welcome to bring food and a campstove and make
-your own food. 
+your own food.
 
 Ruthie is keeping the cost of our meals low by inviting our help in the
 kitchen, and so we’ll be looking for some people to spend one meal helping.
-This will add to the fun! 
+This will add to the fun!
 
 
 ## Cost
@@ -314,7 +314,7 @@ schedule just the right number and type of circles for the number and
 interests of those present. This is a transformational method of
 self-organizing sometimes known as Open Space Technology, and our use of it
 brings forth the best of our skills and passions. You’ll be glad to be part of
-this way. 
+this way.
 
 <div class="center"><img src="images/kaj.jpg"/></div>
 
@@ -324,8 +324,8 @@ Some themes and specialties of last year’s regional songleaders included:
   pull out of your memory when it's time to mark life's beginnings, endings,
   birthdays, homecomings, the turning of the seasons, and more.
 * *Songs for Kids and Those Who Love Them.* Early American dancing games, silly
-  songs, and songs that celebrate the beauty of our diverse world. 
-* *Singing for Rowdies and Rascals—with a Brief Foray into Kumbaya* 
+  songs, and songs that celebrate the beauty of our diverse world.
+* *Singing for Rowdies and Rascals—with a Brief Foray into Kumbaya*
 * *Dances of Universal Peace.* The Dances of Universal Peace are spiritual
   practice in motion. Drawing on the sacred phrases, scripture, and poetry of
   the many spiritual traditions of the earth, the Dances blend chant, live
@@ -335,7 +335,7 @@ Some themes and specialties of last year’s regional songleaders included:
   Pacific NW eco-festivals. This event is about bringing people together who
   feel called to awaken, and nurture their spiritual life through communion
   with songs, prayers, chants, and blessings, of celebration of life in this
-  temple universe. 
+  temple universe.
 * *Civil Rights and Movement Songs.* A singing movement is a winning movement,
   and there are lots of great peoples songs from struggles for liberation
   around the world. Both familiar and new, both old and recent.
@@ -349,22 +349,22 @@ Some themes and specialties of last year’s regional songleaders included:
 * *Simple Four-Part Beauties* that Sound Like the Mormon Tabernacle Choir! Layer
   songs, spirituals, and sacred songs from world traditions.
 * *Songs Pete Seeger Taught Us.* In honor of one of our most beloved American
-  heroes! 
+  heroes!
 
 ## Can you help with any of these tasks?
 
-Help for a few hours or more, as you are able, with:    
+Help for a few hours or more, as you are able, with:
 
 * Leading morning stretching or yoga sessions
 * Leading non-competitive group games
 * Creating a plan for the children’s area or contributing an idea for a
   project or activity at the children’s area
-* Coordinating volunteers 
-* Tending the Welcome Table 
+* Coordinating volunteers
+* Tending the Welcome Table
 * Tending the Coffee/tea station
 * If you have experience with Theatre of the Oppressed, we want to talk to you
-  about ideas for your presence at Village Fire. 
-* Are you a drummer? Come ready to use what you’ve got! 
+  about ideas for your presence at Village Fire.
+* Are you a drummer? Come ready to use what you’ve got!
 
 ## We Want to Hear Your Ideas
 
