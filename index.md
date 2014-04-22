@@ -156,6 +156,18 @@ leads a community choir called OSSIA, and facilitates singing for people
 living with dementia and their families. She believes that singing is pure joy
 and the best way to connect with others.
 
+<img class="wrapleft" src="images/ida.jpg">
+
+**Ida Rotto** is a young and enthusiastic song leader from the Driftless
+bioregion of Northeast Iowa. She comes to Village Fire to breathe the air of
+home, drink up the new and familiar voices and songs, and share the songs of
+her travels. She is on the mission to raise community singing out of its sleep
+and let the wild human medicine of song weave through the everyday air! She
+brings story songs and silly songs, songs of this new and changing time and
+songs from the time of ancestors, songs that are easy to learn and make
+beautiful. She believes that singing is essential as we find our wild place in
+the hum of nature. 
+
 
 
 ## The Schedule
