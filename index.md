@@ -92,7 +92,6 @@ genuine communion.”
 ### More Village Fire 2014 Songleaders
 
 <img class="wrapleft" src="images/lia.jpg"/>
-
 **Lia Falls** is a mom, a singer, a teacher and a songwriter. She teaches Vocal
 Playground/Yoga of the Voice classes (Yoga of the Voice as developed by Silvia
 Nakkach and the Vox Mundi Project)  in Minnesota and Wisconsin and leads
@@ -100,19 +99,19 @@ regular community song circles.  Coming from the heart of an explorer,
 listening, curiosity, and devotion are her guiding principles. Believing that
 there is no such thing as a person who can’t sing,  Lia is devoted to creating
 a safe place for people to use their voices.  
+<br style="clear:left;"/>
 
 
 <img class="wrapleft" src="images/barbara.jpg">
-
 **Barbara McAfee** is a native Minnesotan, a singer/songwriter with seven CDs,
 founder of the Morning Star Singers (Comfort Choir), voice coach, author of
 Full Voice: The Art and Practice of Vocal Presence, and a relentless community
 song leader.  She can’t quite believe she gets to do all of this…and is
 grateful.  <a href="http://www.barabaramcafee.com">www.barbaramcafee.com</a>
+<br style="clear:left;"/>
 
 
 <img class="wrapleft" width="150" src="images/gurtzmiller.jpg">
-
 **Colette Miller** and **Francis Gurtz**, life partners since 1985, have a shared
 interest in Dances of Universal Peace, Early American shape note singing,
 drumming, and silent worship with Friends at Quaker Meeting. They also co-lead
@@ -120,17 +119,17 @@ a hospice choir in Rochester, bringing song twice a month to those at the end
 of life.  They especially enjoy music that is participatory.  They  love the
 laughter, the tears, and the community built with song - which often speaks
 where words fail.
+<br style="clear:left;"/>
 
 <img class="wrapleft" src="images/ellen.jpg">
-
 **Ellen Rockne** lives in her beloved Decorah, where she songleads, sings and
 works with StoryPeople, an art company she co-founded.  She will be leading
 monthly Wonder Choir Sundays this summer, in conjunction with the Northeast
 Iowa Unitarian Universalist Fellowship. She also co-leads the weekly Community
 Sing in Decorah with Liz Rog.
+<br style="clear:left;"/>
 
 <img class="wrapleft" src="images/liz2.jpg">
-
 **Liz Rog** lives to twine her voice with those of others in the Driftless and
 beyond. She leads a variety of community singing groups in Decorah, IA and
 loves Village Fire because of the cross-pollination of voices and ideas among
@@ -139,15 +138,14 @@ connections we make that last forever.
 <br style="clear:left;"/>
 
 <img class="wrapleft" src="images/libby.jpg">
-
 **Elizabeth “Libby” Turner-Opanga** is an active musician in Minnesota.  She is
 dedicated to teaching and experiencing as much music as possible all over the
 world, and shares her love of music enthusiastically with people of all
 colors, cultures and musical tastes. She works with various Twin Cities
 community-based choirs and artists.
+<br style="clear:left;"/>
 
 <img class="wrapleft" src="images/louise.jpg">
-
 **Louise Jarvis** has loved singing and harmonizing all her life. After
 co-directing a choir on Hornby Island, BC, she went on to study conducting at
 Capilano University, and also Community Choir Leadership Training with the
@@ -155,9 +153,9 @@ Ubuntu Choirs Network in Victoria, BC. Now living in Owen Sound, Ontario, she
 leads a community choir called OSSIA, and facilitates singing for people
 living with dementia and their families. She believes that singing is pure joy
 and the best way to connect with others.
+<br style="clear:left;"/>
 
 <img class="wrapleft" src="images/ida.jpg">
-
 **Ida Rotto** is a young and enthusiastic song leader from the Driftless
 bioregion of Northeast Iowa. She comes to Village Fire to breathe the air of
 home, drink up the new and familiar voices and songs, and share the songs of
@@ -167,6 +165,7 @@ brings story songs and silly songs, songs of this new and changing time and
 songs from the time of ancestors, songs that are easy to learn and make
 beautiful. She believes that singing is essential as we find our wild place in
 the hum of nature. 
+<br style="clear:left;"/>
 
 
 
@@ -264,6 +263,15 @@ family.
 
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
+
+## Children's Tent
+
+Village Fire is excited this year to introduce a KiD’s TeNt! Maybe there are
+some ways you can help us, either by loaning some fun things or by helping out
+at the tent. [Click here](images/kidstent.pdf) to see what we're looking for. 
+
+If you can help with any of these things, please contact Sara Mathes,
+sstanek@gmail.com, or call her at 608-632-0719. Thank you!
 
 <div class="center"><img src="images/kidsdance.jpg"/></div>
 
