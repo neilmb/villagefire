@@ -16,7 +16,7 @@ beautiful setting amongst the ancient bluffs of the Driftless, where a creek
 runs through the center and we eat real food made with soul. Play, sing,
 dance, and rest your bones by the fire.
 
-<div class="center"><img src="images/songfire.jpg"/></div>
+<div class="center"><img src="images/fire2.jpg"/></div>
 
 We’ll sing songs to gather people and explore the ways we can use singing to
 deepen our sense of communion with each other and our sacred respect and
@@ -240,6 +240,7 @@ community.  [Click here for a map.](https://goo.gl/maps/9v8wp)
 
 ## Lodging
 
+<img class="wrapright" src="images/girlssing.jpg"/>
 There are many options, at various levels of rusticity. All are available on the
 same sliding fee scale. You are welcome to reserve spaces with friends and
 family.
@@ -294,6 +295,8 @@ your own food.
 Ruthie is keeping the cost of our meals low by inviting our help in the
 kitchen, and so we’ll be looking for some people to spend one meal helping.
 This will add to the fun!
+
+<div class="center"><img src="images/familysing.jpg"/></div>
 
 
 ## Cost
@@ -357,9 +360,7 @@ Help for a few hours or more, as you are able, with:
 
 * Leading morning stretching or yoga sessions
 * Leading non-competitive group games
-* Creating a plan for the children’s area or contributing an idea for a
-  project or activity at the children’s area
-* Coordinating volunteers
+* Contribute an idea for a project or activity at the children’s area
 * Tending the Welcome Table
 * Tending the Coffee/tea station
 * If you have experience with Theatre of the Oppressed, we want to talk to you
@@ -376,6 +377,8 @@ Fire as well as any special needs you might have.
 
 For questions and comments before and after you register, please contact Liz
 Rog at <a href="mailto:liz@decorahnow.com">liz@decorahnow.com</a> or
-563-382-8013.
+563-382-8013. After you register, contact Brenna, our registrar: <a
+href="mailto:brenna.everson@gmail.com">brenna.everson@gmail.com</a> or
+701-739-9001 (is it ok to put someone's phone # on a webiste?) 
 
 <div style="text-align:center;clear:both;color:#8F0000">Come let us wrap ourselves in all of these things.</div>
