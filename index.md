@@ -259,6 +259,11 @@ family.
   simply wooden houses on stilts) about 15 minutes walk from base camp. There
   are 9 of them, each sleeping 4 people.  Bathrooms, showers, electricity,
   fire circle.  Men and Women mixed.
+* Camp in one of the 2 areas with platform tents.  These tents sit on wooden
+  bases and have 6 cots each with foam mattresses. There are 6 tents in a
+  group 2 minutes' walk from base camp and another 6 tents in a group 5
+  minutes walk up a hill from base camp. Both areas have bathrooms and
+  showers.
 
 ## Accessibilty  
 
