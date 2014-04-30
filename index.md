@@ -384,6 +384,6 @@ For questions and comments before and after you register, please contact Liz
 Rog at <a href="mailto:liz@decorahnow.com">liz@decorahnow.com</a> or
 563-382-8013. After you register, contact Brenna, our registrar: <a
 href="mailto:brenna.everson@gmail.com">brenna.everson@gmail.com</a> or
-701-739-9001 (is it ok to put someone's phone # on a webiste?) 
+701-739-9001 
 
 <div style="text-align:center;clear:both;color:#8F0000">Come let us wrap ourselves in all of these things.</div>
