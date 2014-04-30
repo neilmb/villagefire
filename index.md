@@ -240,7 +240,7 @@ community.  [Click here for a map.](https://goo.gl/maps/9v8wp)
 
 ## Lodging
 
-<img class="wrapright" src="images/girlssing.jpg"/>
+<img class="wrapright" src="images/girlssing.JPG"/>
 There are many options, at various levels of rusticity. All are available on the
 same sliding fee scale. You are welcome to reserve spaces with friends and
 family.
@@ -301,7 +301,7 @@ Ruthie is keeping the cost of our meals low by inviting our help in the
 kitchen, and so we’ll be looking for some people to spend one meal helping.
 This will add to the fun!
 
-<div class="center"><img src="images/familysing.jpg"/></div>
+<div class="center"><img src="images/familysing.JPG"/></div>
 
 
 ## Cost
