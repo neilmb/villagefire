@@ -30,10 +30,11 @@ into the voice you were born to sing with as we share beautiful, fun, simple
 songs that can reshape our world.
 
 <blockquote>
-We are the gift between earth and heaven<br/>
+We are the kiss between earth and heaven<br/>
 We are the song between sky and ground<br/>
-Sing for your life and for this world we’re making<br/>
-Nothing is lost that can’t be found
+Sing for your life and for the world we’re making<br/>
+Nothing is lost that can’t be found<br/>
+&nbsp;&nbsp;--Gerri Ravyn Stanfield
 </blockquote>
 
 ## The music
@@ -91,6 +92,25 @@ genuine communion.”
 
 ### More Village Fire 2014 Songleaders
 
+<img class="wrapleft" src="images/ida.jpg">
+**Ida Rotto** is a young and enthusiastic song leader from the Driftless
+bioregion of Northeast Iowa. She comes to Village Fire to breathe the air of
+home, drink up the new and familiar voices and songs, and share the songs of
+her travels. She is on the mission to raise community singing out of its sleep
+and let the wild human medicine of song weave through the everyday air! She
+brings story songs and silly songs, songs of this new and changing time and
+songs from the time of ancestors, songs that are easy to learn and make
+beautiful. She believes that singing is essential as we find our wild place in
+the hum of nature.
+<br style="clear:left;"/>
+
+<img class="wrapleft" src="images/annie.jpg"/>
+**Annie Zylstra** is a young song leader in the making recently transplanted
+into the heart of Driftless Songland. She lives to weave songs and spirits
+together and is continually amazed by the instant, infinite, and immeasurable
+connections formed amongst those who have shared a song or two. 
+<br style="clear:left;"/>
+
 <img class="wrapleft" src="images/lia.jpg"/>
 **Lia Falls** is a mom, a singer, a teacher and a songwriter. She teaches Vocal
 Playground/Yoga of the Voice classes (Yoga of the Voice as developed by Silvia
@@ -101,7 +121,6 @@ there is no such thing as a person who can’t sing,  Lia is devoted to creating
 a safe place for people to use their voices.  
 <br style="clear:left;"/>
 
-
 <img class="wrapleft" src="images/barbara.jpg">
 **Barbara McAfee** is a native Minnesotan, a singer/songwriter with seven CDs,
 founder of the Morning Star Singers (Comfort Choir), voice coach, author of
@@ -109,7 +128,6 @@ Full Voice: The Art and Practice of Vocal Presence, and a relentless community
 song leader.  She can’t quite believe she gets to do all of this…and is
 grateful.  <a href="http://www.barabaramcafee.com">www.barbaramcafee.com</a>
 <br style="clear:left;"/>
-
 
 <img class="wrapleft" width="150" src="images/gurtzmiller.jpg">
 **Colette Miller** and **Francis Gurtz**, life partners since 1985, have a shared
@@ -155,17 +173,6 @@ living with dementia and their families. She believes that singing is pure joy
 and the best way to connect with others.
 <br style="clear:left;"/>
 
-<img class="wrapleft" src="images/ida.jpg">
-**Ida Rotto** is a young and enthusiastic song leader from the Driftless
-bioregion of Northeast Iowa. She comes to Village Fire to breathe the air of
-home, drink up the new and familiar voices and songs, and share the songs of
-her travels. She is on the mission to raise community singing out of its sleep
-and let the wild human medicine of song weave through the everyday air! She
-brings story songs and silly songs, songs of this new and changing time and
-songs from the time of ancestors, songs that are easy to learn and make
-beautiful. She believes that singing is essential as we find our wild place in
-the hum of nature.
-<br style="clear:left;"/>
 
 
 
@@ -286,9 +293,10 @@ sstanek@gmail.com, or call her at 608-632-0719. Thank you!
 Tasty whole food meals will be provided by friend of Village Fire Ruth
 Hampton. (More about Ruth at
 [troutrivercatering.com](http://troutrivercatering.com) and
-[awesomecookery.com](http://awesomecookery.com)) Ruth will prepare 8 meals, Friday breakfast through
-Sunday lunch, for up to 150 people. All meals will be vegetarian, with options
-that are dairy free and gluten free.  [Click here](images/menu.pdf) to see the
+[awesomecookery.com](http://awesomecookery.com)) Thursday night we'll have a
+POTLUCK meal, and all the meals beginning Friday morning will be prepared by
+Ruthie. All meals will be vegetarian, with options that are dairy free and
+gluten free.  [Click here](images/menu.pdf) to see the
 entire menu.
 
 **If you would like to eat the food prepared at camp, you need to register by
@@ -380,10 +388,14 @@ On the <a href="http://www.eventbrite.com/e/village-fire-2014-tickets-1071730474
 form</a> you can tell us more about your own thoughts and ideas for Village
 Fire as well as any special needs you might have.
 
-For questions and comments before and after you register, please contact Liz
-Rog at <a href="mailto:liz@decorahnow.com">liz@decorahnow.com</a> or
-563-382-8013. After you register, contact Brenna, our registrar: <a
+<a href="images/BringtoVillageFire.pdf">Click here</a> for a list of
+things you might want to bring to Village Fire.
+
+Contact Us: Liz Rog, Village Fire Planner, <a
+href="mailto:liz@decorahnow.com">liz@decorahnow.com</a> or 563-382-8013.
+Brenna Everson, Registrar, <a
 href="mailto:brenna.everson@gmail.com">brenna.everson@gmail.com</a> or
-701-739-9001 
+701-739-9001.  Call Camp Tahigwa, May 29-June 1: 563-546-7755
+
 
 <div style="text-align:center;clear:both;color:#8F0000">Come let us wrap ourselves in all of these things.</div>
