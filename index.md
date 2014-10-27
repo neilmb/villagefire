@@ -104,13 +104,6 @@ beautiful. She believes that singing is essential as we find our wild place in
 the hum of nature.
 <br style="clear:left;"/>
 
-<img class="wrapleft" src="images/annie.jpg"/>
-**Annie Zylstra** is a young song leader in the making recently transplanted
-into the heart of Driftless Songland. She lives to weave songs and spirits
-together and is continually amazed by the instant, infinite, and immeasurable
-connections formed amongst those who have shared a song or two. 
-<br style="clear:left;"/>
-
 <img class="wrapleft" src="images/lia.jpg"/>
 **Lia Falls** is a mom, a singer, a teacher and a songwriter. She teaches Vocal
 Playground/Yoga of the Voice classes (Yoga of the Voice as developed by Silvia
@@ -129,24 +122,6 @@ song leader.  She can’t quite believe she gets to do all of this…and is
 grateful.  <a href="http://www.barabaramcafee.com">www.barbaramcafee.com</a>
 <br style="clear:left;"/>
 
-<img class="wrapleft" width="150" src="images/gurtzmiller.jpg">
-**Colette Miller** and **Francis Gurtz**, life partners since 1985, have a shared
-interest in Dances of Universal Peace, Early American shape note singing,
-drumming, and silent worship with Friends at Quaker Meeting. They also co-lead
-a hospice choir in Rochester, bringing song twice a month to those at the end
-of life.  They especially enjoy music that is participatory.  They  love the
-laughter, the tears, and the community built with song - which often speaks
-where words fail.
-<br style="clear:left;"/>
-
-<img class="wrapleft" src="images/ellen.jpg">
-**Ellen Rockne** lives in her beloved Decorah, where she songleads, sings and
-works with StoryPeople, an art company she co-founded.  She will be leading
-monthly Wonder Choir Sundays this summer, in conjunction with the Northeast
-Iowa Unitarian Universalist Fellowship. She also co-leads the weekly Community
-Sing in Decorah with Liz Rog.
-<br style="clear:left;"/>
-
 <img class="wrapleft" src="images/liz2.jpg">
 **Liz Rog** lives to twine her voice with those of others in the Driftless and
 beyond. She leads a variety of community singing groups in Decorah, IA and
@@ -154,25 +129,6 @@ loves Village Fire because of the cross-pollination of voices and ideas among
 so many grassroots movers and shakers, all the spirit we raise, and all the
 connections we make that last forever.
 <br style="clear:left;"/>
-
-<img class="wrapleft" src="images/libby.jpg">
-**Elizabeth “Libby” Turner-Opanga** is an active musician in Minnesota.  She is
-dedicated to teaching and experiencing as much music as possible all over the
-world, and shares her love of music enthusiastically with people of all
-colors, cultures and musical tastes. She works with various Twin Cities
-community-based choirs and artists.
-<br style="clear:left;"/>
-
-<img class="wrapleft" src="images/louise.jpg">
-**Louise Jarvis** has loved singing and harmonizing all her life. After
-co-directing a choir on Hornby Island, BC, she went on to study conducting at
-Capilano University, and also Community Choir Leadership Training with the
-Ubuntu Choirs Network in Victoria, BC. Now living in Owen Sound, Ontario, she
-leads a community choir called OSSIA, and facilitates singing for people
-living with dementia and their families. She believes that singing is pure joy
-and the best way to connect with others.
-<br style="clear:left;"/>
-
 
 
 
