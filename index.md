@@ -64,10 +64,10 @@ of our country, a group discussion will be held to exchange ideas about
 community songleading for our times.
 
 <img style="float:right" src="images/laurence.jpg">
-Very special 2014 guest Laurence Cole  comes from Port Townsend, Washington to
+Very special 2015 guest Laurence Cole  comes from Port Townsend, Washington to
 share with us his wonderful songs and powerful leadership. Laurence brings a
-wealth of experience and inspiration to his songleading, borne of his 70+
-years of music making. Village Fire 2014 will feature many of his songs, and
+wealth of experience and inspiration to his songleading, born of his 70+
+years of music making. Village Fire 2015 will feature many of his songs, and
 his presence will make this an unforgettable year.
 
 Laurence says we're…
@@ -90,7 +90,7 @@ which we simply stand and hold the ‘enchantment,’ the sense of deep and
 genuine communion.”
 </blockquote>
 
-### More Village Fire 2014 Songleaders
+### More Village Fire 2015 Songleaders
 
 <img class="wrapleft" src="images/ida.jpg">
 **Ida Rotto** is a young and enthusiastic song leader from the Driftless
@@ -136,7 +136,7 @@ connections we make that last forever.
 
 <img class="wrapleft" src="images/VFyoungppl.jpg"/>
 
-**Thursday, May 29**
+**Wednesday, June 10**
 
 * Greeters at the Welcome Table will be watching for you between 2 p.m. and 5
   p.m. They will help you find your way around and begin meeting others at our
@@ -145,7 +145,7 @@ connections we make that last forever.
 * Our first shared meal is a Thursday evening potluck at 6 p.m.
 * At night we’ll gather around the fire for open song sharing.
 
-**Friday, May 30 and Saturday, May 31**
+**Thursday, June 11, Friday, June 12 and Saturday, June 13**
 
 * Three great meals served at 8am, noon, and 5pm. Bring snacks for
   between-times.
@@ -164,7 +164,7 @@ connections we make that last forever.
 and Lucas Blekeberg will play their fiddle, guitar, and mandolin for a good
 old-fashioned contradance, called by Bill Deutsch.
 
-**Sunday, June 1**
+**Sunday, June 14**
 
 * Breakfast and lunch served, Song Circles in the morning, and closing circle
   at 2 p.m. We really hope you’ll be able to stay through the closing circle,
