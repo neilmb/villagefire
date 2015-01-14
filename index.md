@@ -255,9 +255,6 @@ Ruthie. All meals will be vegetarian, with options that are dairy free and
 gluten free.  [Click here](images/menu.pdf) to see the
 entire menu.
 
-**If you would like to eat the food prepared at camp, you need to register by
-May 18.**
-
 If you prefer, you are also welcome to bring food and a campstove and make
 your own food.
 
@@ -351,7 +348,7 @@ Contact Us: Liz Rog, Village Fire Planner, <a
 href="mailto:liz@decorahnow.com">liz@decorahnow.com</a> or 563-382-8013.
 Brenna Everson, Registrar, <a
 href="mailto:brenna.everson@gmail.com">brenna.everson@gmail.com</a> or
-701-739-9001.  Call Camp Tahigwa, May 29-June 1: 563-546-7755
+701-739-9001.  During Village Fire, you can call Camp Tahigwa: 563-546-7755
 
 
 <div style="text-align:center;clear:both;color:#8F0000">Come let us wrap ourselves in all of these things.</div>
