@@ -327,9 +327,15 @@ for taking the time to figure out what you can do.
 * Adults, with meals: $90 - $220
 * Teens 12 - 18, with meals: $65 - $100 
 * Kids 11 and under, with meals: $45 - $90
+
 * Adults, bringing your own food: $50 - $100
 * Teens 12 - 18, bringing your own food: $25 - $50 
 * Kids 11 and under, bringing your own food: $25 - $50
+
+By the Day
+
+* With meals, adult $30/day, teen/child $15/day
+* Bringing your own food, adult $15/day, teen/child free
 
 ## How Our Schedule Works
 
