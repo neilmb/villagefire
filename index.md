@@ -434,4 +434,5 @@ Contact Us:
 * Registration Questions: Brenna Everson, <a
 href="mailto:brenna.everson@gmail.com">brenna.everson@gmail.com</a> or
 701-739-9001.  
+* <a href="http://eepurl.com/uFbKr">Click here</a> to sign up for email updates about other regional singing events.
 * During our gathering, you can call Camp Tahigwa: 563-546-7755
