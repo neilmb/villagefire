@@ -319,9 +319,16 @@ help our event sustain itself. Most of your money goes toward food and Camp
 Tahigwa. Since last year’s Village Fire we’ve added a 5th day; therefore these
 scales reflect 3 additional meals.
 
-* Adults, with meals: $80 - $160
-* Kids 11 and under, with meals: $40 - $80
+The choices below can be a little confusing. Why do we do it this way? It’s
+because we really want money to not stand in the way of your coming, and
+because we need those who have more money to help out a little more. Thank you
+for taking the time to figure out what you can do.
+
+* Adults, with meals: $90 - $220
+* Teens 12 - 18, with meals: $65 - $100 
+* Kids 11 and under, with meals: $45 - $90
 * Adults, bringing your own food: $50 - $100
+* Teens 12 - 18, bringing your own food: $25 - $50 
 * Kids 11 and under, bringing your own food: $25 - $50
 
 ## How Our Schedule Works
