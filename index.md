@@ -298,7 +298,7 @@ meals. (More about Ruth at
 [troutrivercatering.com](http://troutrivercatering.com) and
 [awesomecookery.com](http://awesomecookery.com). All meals will be vegetarian,
 with options that are dairy free and gluten free.  Click here to see the
-entire menu. Wednesday’s first meal is supper. On Thursday, Friday, and
+entire [menu](images/menu.pdf). Wednesday’s first meal is supper. On Thursday, Friday, and
 Saturday, Ruthie will make three meals for us. On Sunday the last meal will be
 lunch.
 
