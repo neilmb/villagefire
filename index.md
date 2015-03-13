@@ -318,7 +318,7 @@ family.
   <div class="center"><img src="images/tent.jpg"/></div>
 
 
-## <a name="accessibility"></a>Accessibilty  
+## <a name="accessibility"></a>Accessibility  
 
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
