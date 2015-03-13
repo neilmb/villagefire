@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Village Fire 2015
 ---
 
 <div class="contents" markdown="1">
@@ -34,7 +35,6 @@ layout: home
   - [What to Bring](#what_to_bring)
   - [Contact](#contact)
 </div>
-<br style="clear:left;"/>
 </div>
 
 #### <a name="about"></a><a name="who"></a> Singing Together to Nourish the Soul and Re-enchant the World with Song
