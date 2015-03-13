@@ -1020,6 +1020,27 @@ index img {
   text-align: center;
   margin-bottom: 1em;
 }
+.contents {
+  background-color: #ffd9b3;
+  border: 3px solid #8f0000;
+  border-radius: 9px;
+  font-family: 'Averia Libre', serif;
+  font-style: italic;
+  padding: 1em 1.2em;
+}
+.contents .left {
+  width: 400px;
+  margin-right: 10px;
+  float: left;
+}
+.contents .right {
+  width: 400px;
+  margin-left: 10px;
+  float: right;
+}
+.contents ul {
+  list-style-type: none;
+}
 #background {
   width: 100%;
   padding: 0;

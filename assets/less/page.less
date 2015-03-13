@@ -33,6 +33,28 @@ index img {
     text-align: center;
     margin-bottom: 1em;
 }
+.contents {
+	background-color: lighten(@basecolor, 25%);
+	border: 3px solid @border-color;
+	border-radius:9px;
+	font-family: @alt-font;
+	font-style: italic;
+    padding: 1em 1.2em;
+    .left {
+        width: 400px;
+        margin-right: 10px;
+        float: left;
+    }
+    
+    .right {
+        width: 400px;
+        margin-left: 10px;
+        float: right;
+    }
+    ul {
+        list-style-type: none;
+    }
+}
 #background {
     width: 100%;
     padding: 0;

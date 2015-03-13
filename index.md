@@ -2,7 +2,42 @@
 layout: home
 ---
 
-#### Singing Together to Nourish the Soul and Re-enchant the World with Song
+<div class="contents" markdown="1">
+<div class="center"></div>
+<div class="left" markdown="1">
+* [Who We Are](#who)
+
+  - [About](#about)
+  - [Who is invited](#who_is_invited)
+    
+    + [We love children!](#children)
+
+  - [Our Camp](#camp)
+
+    + [Lodging](#lodging)
+    + [Accessibility](#accessibility)
+    + [Food](#food)
+
+* [More Photos](photos.html)
+</div>
+<div class="right" markdown="1">
+* [What We Do](#what)
+
+  - [The Music](#music)
+  - [Our Songleaders](#songleaders)
+  - [Daily Plan](#daily)
+  - [What Else?](#what_else)
+
+* [Registration](#registration)
+
+  - [Cost](#cost)
+  - [What to Bring](#what_to_bring)
+  - [Contact](#contact)
+</div>
+<br style="clear:left;"/>
+</div>
+
+#### <a name="about"></a><a name="who"></a> Singing Together to Nourish the Soul and Re-enchant the World with Song
 
 Do you long to twine your voice with others in song? Do you love to be outside
 among plants, trees, creatures, water, and sky? Do you know the pleasure of
@@ -23,7 +58,8 @@ relax. Time to lean into the world.
 
 <div class="center"><img src="images/fire_darkness.jpg"/></div>
 
-## Who Will Be There
+
+## <a name="who_is_invited"></a>Who Will Be There
 
 Everyone is welcome. No singing background is necessary whatsoever. We will be
 a mix of experienced singers and new singers, and you won’t believe how great
@@ -32,7 +68,8 @@ love getting to know each other. We will be a combination of many backgrounds,
 and we will be glad for it all. We will be a mix of old, young, and in-between
 people, befriending each other through the play of song.
 
-### We Love Children!
+
+### <a name="children"></a>We Love Children!
 
 Children are welcome everywhere at Village Fire. There is also a KiD’s TeNt
 where special activities are planned: crafts, games, songs, and more. If you’d
@@ -40,8 +77,10 @@ like to help out at the Kid’s Tent, let us know! Whether you are a parent of
 young children or not, you are welcome to be part of their fun. We are a
 village.
 
-## What We Do
 
+## <a name="what"></a>What We Do
+
+<img class="wrapright" src="images/barbara_circle.jpg"/>
 We explore the ways that singing can deepen our sense of communion with each
 other and our sacred respect and wonder in the face of all nature. We sing
 easy-to-learn, playfully challenging songs that speak to critical
@@ -70,14 +109,15 @@ Nothing is lost that can’t be found<br/>
 &nbsp;&nbsp;--Gerri Ravyn Stanfield
 </blockquote>
 
-## Our music
 
+## <a name="music"></a>Our music
+
+<img class="wrapleft" src="images/glob_singing.jpg" width="500"/>
 How do we go beyond sustainability and learn to thrive again? How do we
 entertain, inspire, and create? How do we make connection with each other
 without elaborate technology, using simply the inner resources we were born
 with?
 
-<div class="center"><img src="images/glob_singing.jpg"/></div>
 
 We raise our voices together in songs that celebrate love, diversity, power,
 the rhythms of the year, and the circle of life. We sing songs for times when
@@ -89,7 +129,8 @@ non-hierarchical, harmonious intertwining of our voices we bring light to the
 world.
 
 
-## Our Songleaders
+
+## <a name="songleaders"></a>Our Songleaders
 
 Experienced and dedicated songleaders bring gems from their own living
 communities to teach to us. Also, opportunities for emerging songleaders
@@ -176,8 +217,9 @@ next door to the <a href="http://fernhollowcabin.com">home of her ancestors</a>.
 
 
 
-## The Shape of Our Days
-<img class="wrapleft" src="images/young_firemakers.jpg"/>
+
+## <a name="daily"></a>The Shape of Our Days
+<img class="wrapright" src="images/young_firemakers.jpg" width="480"/>
 
 **Wednesday, June 10**
 
@@ -215,6 +257,7 @@ next door to the <a href="http://fernhollowcabin.com">home of her ancestors</a>.
 
 <span style="color: #8F0000"><b>Special Evening Happenings</b></span>
 
+<img class="wrapright" src="images/bowery_dance.jpg" width="500"/>
 Most nights after dinner and before the lighting of the fire for nighttime
 singing, we gather for some special event.
 
@@ -237,22 +280,10 @@ gifts and YES to shared joy.
   or so we’ll be ready for all the hands that can stay for cleanup.
 
 
-
-<div class="center"><img src="images/bowery_dance.jpg"/></div>
-
-
-## Who is Invited?  
-
-Everyone is welcome. No singing background is necessary whatsoever. We will be
-a mix of experienced singers and new singers, and you won't believe how great
-we'll sound together. We will be a mix of city and rural people, and we will
-love getting to know each other. We will be a combination of many backgrounds,
-and we will be glad for it all. We will be a mix of old, young, and in-between
-people, befriending each other through the play of song.
-
 <div class="center"><img src="images/VFyoungppl2.jpg"/></div>
 
-## Our Camp
+
+## <a name="camp"></a>Our Camp
 
 Camp Tahigwa in Northeast Iowa is an old camp on 300 acres of expansive hills,
 hardwood forests, limestone cliffs, caves, and a meandering trout stream. From
@@ -261,7 +292,8 @@ each other and opening our circles to include all. We will make a home there
 and work together to care for the land, water, creatures, and people of our
 community.  [Click here for a map.](https://goo.gl/maps/9v8wp)
 
-## Lodging
+
+## <a name="lodging"></a>Lodging
 
 <img class="wrapright" src="images/girlssing.JPG"/>
 There are many options, at various levels of rusticity. All are available on the
@@ -283,7 +315,10 @@ family.
   have 6 cots each with foam mattresses. They sit 2 minutes’ walk from base
   camp. No electricity. Bathrooms and showers are right nearby. 
 
-## Accessibilty  
+  <div class="center"><img src="images/tent.jpg"/></div>
+
+
+## <a name="accessibility"></a>Accessibilty  
 
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
@@ -291,7 +326,8 @@ met; please help us do so by sharing your needs in advance.
 
 <div class="center"><img src="images/children_couch.jpg"/></div>
 
-## Food 
+
+## <a name="food"></a>Food 
 
 Friend of Village Fire Ruth Hampton will once again make us tasty whole food
 meals. (More about Ruth at
@@ -312,7 +348,8 @@ shift there if you’d like.
 <div class="center"><img src="images/closing_circle.jpg"/></div>
 
 
-## Cost
+
+## <a name="cost"></a>Cost
 
 We offer a sliding scale, knowing that all will pay as they are able and thus
 help our event sustain itself. Most of your money goes toward food and Camp
@@ -339,6 +376,7 @@ By the Day
 
 ## How Our Schedule Works
 
+<img class="wrapleft" src="images/kaj.jpg" width="480"/>
 Upon our arrival we create a plan for song circles according to the desires
 and skills of those present. In this way we are poised to take advantage of
 the surprising gifts that show up, and we are able to schedule just the right
@@ -346,8 +384,6 @@ number and type of circles for the number and interests of those present. This
 is a transformational method of self-organizing sometimes known as Open Space
 Technology, and our use of it brings forth the best of our skills and
 passions.
-
-<div class="center"><img src="images/kaj.jpg"/></div>
 
 Some themes and specialties of last year’s regional songleaders included:
 
@@ -382,6 +418,7 @@ Some Village Fire themes from other years have included:
 
 A Few New Dreams for 2015! 
 
+<img class="wrapright" src="images/ian.jpg"/>
 (We can’t yet know whether all of these will happen this year...if you feel
 called to help with any of these, let us know)
 
@@ -403,6 +440,7 @@ called to help with any of these, let us know)
 
 ## We Pitch In to Make it Work
 
+<img class="wrapright" src="images/creek.jpg"/>
 When you arrive at our camp’s welcome table, you’ll have a chance to sign up
 to help with a few 1 or 2-hour shifts. Here are some of the things that will
 need your help:
