@@ -3,40 +3,6 @@ layout: home
 title: Village Fire 2015
 ---
 
-<div class="contents" markdown="1">
-<div class="center"></div>
-<div class="left" markdown="1">
-* [Who We Are](#who)
-
-  - [About](#about)
-  - [Who is invited](#who_is_invited)
-    
-    + [We love children!](#children)
-
-  - [Our Camp](#camp)
-
-    + [Lodging](#lodging)
-    + [Accessibility](#accessibility)
-    + [Food](#food)
-
-* [More Photos](photos.html)
-</div>
-<div class="right" markdown="1">
-* [What We Do](#what)
-
-  - [The Music](#music)
-  - [Our Songleaders](#songleaders)
-  - [Daily Plan](#daily)
-  - [What Else?](#what_else)
-
-* [Registration](#registration)
-
-  - [Cost](#cost)
-  - [What to Bring](#what_to_bring)
-  - [Contact](#contact)
-</div>
-</div>
-
 #### <a name="about"></a><a name="who"></a> Singing Together to Nourish the Soul and Re-enchant the World with Song
 
 Do you long to twine your voice with others in song? Do you love to be outside

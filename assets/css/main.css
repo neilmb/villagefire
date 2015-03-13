@@ -1026,25 +1026,13 @@ index img {
   border-radius: 9px;
   font-family: 'Averia Libre', serif;
   font-style: italic;
+  font-size: 14px;
   padding: 1em 1.2em;
   overflow: auto;
   width: 100%;
 }
-.contents .left {
-  width: 400px;
-  margin-right: 10px;
-  float: left;
-}
-.contents .right {
-  width: 400px;
-  margin-left: 10px;
-  float: right;
-}
 .contents ul {
   list-style-type: none;
-}
-.contents a {
-  font-size: 24px;
 }
 #background {
   width: 100%;
@@ -1090,36 +1078,40 @@ index img {
   margin-right: auto;
 }
 .headbox #twocolumn #left {
-  width: 400px;
+  width: 600px;
   margin-right: 10px;
   float: left;
 }
-.headbox #twocolumn #left p {
-  text-align: center;
-}
-.headbox #twocolumn #right {
-  width: 400px;
-  margin-left: 10px;
-  float: right;
-}
-.headbox #twocolumn #right h1 {
+.headbox #twocolumn #left h1 {
   margin-top: 0;
   margin-bottom: 0;
 }
-.headbox #twocolumn #right h2 {
+.headbox #twocolumn #left h2 {
   margin-top: 0;
   margin-bottom: 10px;
 }
-.headbox #twocolumn #right h3 {
+.headbox #twocolumn #left h3 {
   padding-top: 0px;
   margin: 0;
 }
-.headbox #twocolumn #right h4 {
+.headbox #twocolumn #left h4 {
   margin-top: 10px;
   margin-bottom: 0px;
 }
-.headbox #twocolumn #right p {
+.headbox #twocolumn #left p {
   margin-top: 1em;
+}
+.headbox #twocolumn #right {
+  width: 200px;
+  margin-left: 10px;
+  float: right;
+}
+.headbox #twocolumn ul {
+  margin: 0.25em 0 0.25em;
+  padding-left: 5px;
+}
+.headbox #twocolumn li {
+  padding-left: 10px;
 }
 .headbox #btn {
   text-align: center;
