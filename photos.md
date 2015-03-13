@@ -4,21 +4,17 @@ layout: photos
 
 ## Photos from Village Fire Past
 
-<div class="center"><img src="images/gallery/babbling creek.jpg"></div>
+<div class="center"><img src="images/gallery/babbling creek.JPG"></div>
 
 <div class="center"><img src="images/gallery/big ring of people.jpg"></div>
 
 <div class="center"><img src="images/gallery/bo in variety show.jpg"></div>
-
-<div class="center"><img src="images/gallery/bigcircle.jpg"></div>
 
 <div class="center"><img src="images/gallery/circle.jpg"></div>
 
 <div class="center"><img src="images/gallery/cottonwood.JPG"></div>
 
 <div class="center"><img src="images/gallery/earth mandala.jpg"></div>
-
-<div class="center"><img src="images/gallery/familysing.JPG"></div>
 
 <div class="center"><img src="images/gallery/fire2.jpg"></div>
 
@@ -31,8 +27,6 @@ layout: photos
 <div class="center"><img src="images/gallery/moss on bluff.JPG"></div>
 
 <div class="center"><img src="images/gallery/sky and eagle.jpg"></div>
-
-<div class="center"><img src="images/gallery/songfire.jpg"></div>
 
 <div class="center"><img src="images/gallery/tent close up.JPG"></div>
 
