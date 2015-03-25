@@ -165,6 +165,20 @@ there is no such thing as a person who can’t sing, Lia is devoted to creating
 a safe place for people to use their voices.
 <br style="clear:left;"/>
 
+<img class="wrapleft" src="images/sophie.jpg"> **Sophia Rog**  is a dance
+artist, bodyworker, and song leader. She carries song with gratitude and
+humbleness for the childhood of music that instilled in her the knowing that
+song can be as necessary and easeful as breathing, walking, and doing the
+dishes. Currently residing in Santa Fe, NM, she performs, teaches Contact
+Improvisation, works as a massage therapist, and sips on the wide-sky lessons
+the desert has to teach her.  Sophia brings to VF a deep-running passion for
+embodied awareness and agency, a smattering of delightful songs from her
+song-sharing and learning in NM, and a readiness to research integration of
+her movement knowledge with the song-circle tradition which she finds herself
+gratefully inhabiting. The Driftless region of Northeast Iowa is the land to
+which she most deeply belongs, and she returns here in utter joy.
+<br style="clear:left;"/>
+
 <img class="wrapleft" src="images/barbara.jpg"> 
 **Barbara McAfee** is a native Minnesotan, a singer/songwriter with seven CDs,
 founder of the Morning Star Singers (Comfort Choir), voice coach, author of
