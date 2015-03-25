@@ -179,6 +179,16 @@ gratefully inhabiting. The Driftless region of Northeast Iowa is the land to
 which she most deeply belongs, and she returns here in utter joy.
 <br style="clear:left;"/>
 
+<img class="wrapleft" width="150" src="images/gurtzmiller.jpg"> **Colette
+Miller** and **Francis Gurtz**, life partners since 1985, have a shared
+interest in Dances of Universal Peace, Early American shape note singing,
+drumming, and silent worship with Friends at Quaker Meeting. They also co-lead
+a hospice choir in Rochester, bringing song twice a month to those at the end
+of life. They especially enjoy music that is participatory. They love the
+laughter, the tears, and the community built with song - which often speaks
+where words fail.  
+<br style="clear:left;"/>
+
 <img class="wrapleft" src="images/barbara.jpg"> 
 **Barbara McAfee** is a native Minnesotan, a singer/songwriter with seven CDs,
 founder of the Morning Star Singers (Comfort Choir), voice coach, author of
