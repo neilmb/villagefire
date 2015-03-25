@@ -322,7 +322,7 @@ met; please help us do so by sharing your needs in advance.
 Friend of Village Fire Ruth Hampton will once again make us tasty whole food
 meals. (More about Ruth at
 [troutrivercatering.com](http://troutrivercatering.com) and
-[awesomecookery.com](http://awesomecookery.com). All meals will be vegetarian,
+[awesomecookery.com](http://awesomecookery.com)). All meals will be vegetarian,
 with options that are dairy free and gluten free.  Click here to see the
 entire [menu](images/menu.pdf). Wednesday’s first meal is supper. On Thursday, Friday, and
 Saturday, Ruthie will make three meals for us. On Sunday the last meal will be
