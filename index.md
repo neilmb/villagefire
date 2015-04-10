@@ -3,7 +3,7 @@ layout: home
 title: Village Fire 2015
 ---
 
-#### <a name="about"></a><a name="who"></a> Singing Together to Nourish the Soul and Re-enchant the World with Song
+#### <a name="about"></a><a name="who"></a> Singing Together to Nourish the Soul<br/> and Re-enchant the World with Song
 
 Do you long to twine your voice with others in song? Do you love to be outside
 among plants, trees, creatures, water, and sky? Do you know the pleasure of
@@ -37,11 +37,14 @@ people, befriending each other through the play of song.
 
 ### <a name="children"></a>We Love Children!
 
+<div class="wrapright"><img src="images/children_couch.jpg" width="380"/></div>
+
 Children are welcome everywhere at Village Fire. There is also a KiD’s TeNt
 where special activities are planned: crafts, games, songs, and more. If you’d
 like to help out at the Kid’s Tent, let us know! Whether you are a parent of
 young children or not, you are welcome to be part of their fun. We are a
 village.
+ <br style="clear:both;"/>
 
 
 ## <a name="what"></a>What We Do
@@ -166,8 +169,8 @@ a safe place for people to use their voices.
 <br style="clear:left;"/>
 
 <img class="wrapleft" src="images/sophie.jpg"> **Sophia Rog**  is a dance
-artist, bodyworker, and song leader. She carries song with gratitude and
-humbleness for the childhood of music that instilled in her the knowing that
+artist, bodyworker, and song leader. She carries song with gratitude 
+for the childhood of music that instilled in her the knowing that
 song can be as necessary and easeful as breathing, walking, and doing the
 dishes. Currently residing in Santa Fe, NM, she performs, teaches Contact
 Improvisation, works as a massage therapist, and sips on the wide-sky lessons
@@ -219,6 +222,10 @@ next door to the <a href="http://fernhollowcabin.com">home of her ancestors</a>.
 * Our first shared meal is Wednesday evening at 6 p.m.
 * At night we’ll gather around the fire for open song sharing and perhaps some
   other special happening.
+
+On Thursday at 10:30 am we come together for our Village Fire
+Opening Circle. Come join in this joyful calling out of our 
+gratitudes and blessings on our gathering grounds.
 
 **Thursday, June 11, Friday, June 12 and Saturday, June 13**
 
@@ -312,9 +319,6 @@ family.
 
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
-
-
-<div class="center"><img src="images/children_couch.jpg"/></div>
 
 
 ## <a name="food"></a>Food 
@@ -453,7 +457,7 @@ On the <a href="http://villagefiresinging.eventbrite.com">online registration
 form</a> you can tell us more about your own thoughts and ideas for Village
 Fire as well as any special needs you might have.
 
-<a href="images/BringtoVillageFire.pdf">Click here</a> for a list of
+<a name="what_to_bring" href="images/BringtoVillageFire.pdf">Click here</a> for a list of
 things you might want to bring to Village Fire.
 
 Contact Us: 
