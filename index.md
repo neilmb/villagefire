@@ -200,6 +200,15 @@ song leader. She can’t quite believe she gets to do all of this...and is
 grateful.  <a href="http://www.barabaramcafee.com">www.barbaramcafee.com</a>
 <br style="clear:left;"/>
 
+<img class="wrapleft" src="images/tanna.jpg">
+**Tanna Worrell**  has shared her talent and love for hand drumming in many
+ways, for many years – in a multi-cultural dance and drum troupe, women’s
+groups, healing groups and community drum circles. Tanna knows that the
+physical act of drumming-in-a-group-together evokes all manner of happiness,
+connection, and Setting Things Right in the World. 
+<br style="clear:left;"/>
+
+
 <img class="wrapleft" src="images/liz2.jpg">
 **Liz Rog** lives to twine her voice with those of others in the Driftless and
 beyond. She leads a variety of community singing groups in Decorah, IA and
