@@ -320,6 +320,29 @@ family.
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
 
+## <a name="herbal"></a>Herbal Wellness Tent
+
+Together we will create a peaceful, supportive and inviting space to take care
+of health & wellness concerns that may arise during Village Fire. It will
+include a massage table, herbal remedies such as tinctures & salves and
+various helpful first aid items. There will be "open hours" when a volunteer
+herbalist will staff the space if questions arise. People who want to use the
+space for healing such as massage or energy work can sign-up for private use.
+This space will not replace prompt emergency health care. 
+
+Wish List: (Contact Jess to discuss)
+
+1. Herbal remedies and products. Tinctures, dry herbs, salves, bug spray... They must be labeled clearly with all ingredients.
+2. First aid supplies like gauze, tape, bandaids and washcloths.
+3. Items to make the space comfortable and pleasing like blankets & pillows. Sacred items like crystals, rocks and shells would be good too.
+
+If you are an herbalist and would like to help facilitate this endeavor or if you are a student of the plants and are looking to gain experience there may be mentorship and learning opportunities.
+
+Please contact Jess Krueger <a href="redcloverbirth@gmail.com">redcloverbirth@gmail.com</a>.
+
+
+
+
 
 ## <a name="food"></a>Food 
 
