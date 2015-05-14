@@ -496,7 +496,7 @@ Contact Us:
 
 * General Questions: Liz Rog, <a href="mailto:liz@decorahnow.com">liz@decorahnow.com</a> or 563-382-8013.
 * Registration Questions: Brenna Everson, <a
-href="mailto:Villagefiresinging@gmail.com">brenna.everson@gmail.com</a> or
+href="mailto:Villagefiresinging@gmail.com">Villagefiresinging@gmail.com</a> or
 701-739-9001.  
 * <a href="http://eepurl.com/uFbKr">Click here</a> to sign up for email updates about other regional singing events.
 * During our gathering, you can call Camp Tahigwa: 563-546-7755
