@@ -507,7 +507,7 @@ form</a> you can tell us more about your own thoughts and ideas for Village
 Fire as well as any special needs you might have.
 
 <a name="what_to_bring" href="images/BringtoVillageFire.pdf">Click here</a> for a list of
-things you might want to bring to Village Fire.
+things you might want to bring to Village Fire. *(UPDATED)*
 
 Contact Us: 
 
