@@ -182,6 +182,14 @@ gratefully inhabiting. The Driftless region of Northeast Iowa is the land to
 which she most deeply belongs, and she returns here in utter joy.
 <br style="clear:left;"/>
 
+<img class="wrapleft" src="images/ira.jpg"> **Ira Christian** When he's not
+making instruments or leading a theater workshop around the country or
+overseas, Ira can most often be found sharing his love of nature, ancestral
+living skills, poetry and song with kids, teens and adults in the wildlands of
+California.  He is excited to explore the community, land, and song of
+Driftless bioregion.
+<br style="clear:left;"/>
+
 <img class="wrapleft" width="150" src="images/gurtzmiller.jpg"> **Colette
 Miller** and **Francis Gurtz**, life partners since 1985, have a shared
 interest in Dances of Universal Peace, Early American shape note singing,
