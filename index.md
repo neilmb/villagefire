@@ -296,7 +296,24 @@ hardwood forests, limestone cliffs, caves, and a meandering trout stream. From
 the moment we arrive we will begin to create the community we love, welcoming
 each other and opening our circles to include all. We will make a home there
 and work together to care for the land, water, creatures, and people of our
-community.  [Click here for a map.](https://goo.gl/maps/9v8wp)
+community.
+
+### <a name="directions"></a> Directions
+
+The address is [Camp Tahigwa, 318 Tahigwa Dr, Dorchester, IA
+52140](https://goo.gl/maps/9v8wp). *Your GPS will not work in the winding
+valleys of NE Iowa, so be sure to come prepared with directions*. We’ll have
+signs at some of the important intersections close to camp. Here are
+directions
+
+* If you are coming from the Northwest via Rochester, MN:
+  [DirectionsfromNorthwestRochesterMN.pdf](images/DirectionsfromNorthwestRochesterMN.pdf)
+* If you are coming from the Northeast via LaCrosse, WI:
+  [DirectionsfromNortheastLaCrosseWI.pdf](images/DirectionsfromNortheastLaCrosseWI.pdf)
+* If you are coming from the Southwest via Decorah, IA:
+  [DirectionsfromSouthwestDecorahIA.pdf](images/DirectionsfromSouthwestDecorahIA.pdf)
+* If you are coming from the Northwest via Rochester, MN:
+  [DirectionsfromSouthwestWaukonIA.pdf](images/DirectionsfromSouthwestWaukonIA.pdf)
 
 
 ## <a name="lodging"></a>Lodging
