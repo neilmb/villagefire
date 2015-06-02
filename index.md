@@ -320,8 +320,8 @@ directions
   [DirectionsfromNortheastLaCrosseWI.pdf](images/DirectionsfromNortheastLaCrosseWI.pdf)
 * If you are coming from the Southwest via Decorah, IA:
   [DirectionsfromSouthwestDecorahIA.pdf](images/DirectionsfromSouthwestDecorahIA.pdf)
-* If you are coming from the Northwest via Rochester, MN:
-  [DirectionsfromSouthwestWaukonIA.pdf](images/DirectionsfromSouthwestWaukonIA.pdf)
+* If you are coming from the Southeast via Waukon, IA:
+  [DirectionsfromSoutheastWaukonIA.pdf](images/DirectionsfromSoutheastWaukonIA.pdf)
 
 
 ## <a name="lodging"></a>Lodging
