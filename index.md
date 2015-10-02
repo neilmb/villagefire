@@ -132,7 +132,7 @@ which we simply stand and hold the ‘enchantment,’ the sense of deep and
 genuine communion.”
 </blockquote>
 
-### More Village Fire 2015 Songleaders
+### Other past Songleaders
 
 <img class="wrapleft" src="images/aimee.jpg"> 
 **Aimée Ringle** is a singer/songwriter, songleader and
@@ -269,22 +269,6 @@ gratitudes and blessings on our gathering grounds.
   among any who have a song to lead or suggest. Be you a learner or a leader,
   you are welcomed to follow the pull of your heart.
 
-<span style="color: #8F0000"><b>Special Evening Happenings</b></span>
-
-<img class="wrapright" src="images/bowery_dance.jpg" width="500"/>
-Most nights after dinner and before the lighting of the fire for nighttime
-singing, we gather for some special event.
-
-On Friday night there’s an old-time dance in the open field with Decorah’s own
-Erik Sessions, John Goodin, and Lucas Blekeberg on their fiddle, guitar, and
-mandolin and Bill Deutsch calling the dances. No experience needed! 
-
-On one of the other nights we’ll make space for our wonderful variety show.
-Maybe you’d like to play a tune, recite a poem, or sing a song for us. You
-might work something up with a new Village Fire friend. The sky’s the
-limit—last year we got an acro-yoga demonstration from Lyndsey and Rose! The
-variety show is another way in which we say YES to each other’s voices and
-gifts and YES to shared joy.
 
 **Sunday, June 14**
 
@@ -354,30 +338,6 @@ family.
 Base camp is fully accessible. We will work with you to be sure your needs are
 met; please help us do so by sharing your needs in advance.
 
-## <a name="herbal"></a>Herbal Wellness Tent
-
-Together we will create a peaceful, supportive and inviting space to take care
-of health & wellness concerns that may arise during Village Fire. It will
-include a massage table, herbal remedies such as tinctures & salves and
-various helpful first aid items. There will be "open hours" when a volunteer
-herbalist will staff the space if questions arise. People who want to use the
-space for healing such as massage or energy work can sign-up for private use.
-This space will not replace prompt emergency health care. 
-
-Wish List: (Contact Jess to discuss)
-
-1. Herbal remedies and products. Tinctures, dry herbs, salves, bug spray... They must be labeled clearly with all ingredients.
-2. First aid supplies like gauze, tape, bandaids and washcloths.
-3. Items to make the space comfortable and pleasing like blankets & pillows. Sacred items like crystals, rocks and shells would be good too.
-
-If you are an herbalist and would like to help facilitate this endeavor or if you are a student of the plants and are looking to gain experience there may be mentorship and learning opportunities.
-
-Please contact Jess Krueger <a href="redcloverbirth@gmail.com">redcloverbirth@gmail.com</a>.
-
-
-
-
-
 ## <a name="food"></a>Food 
 
 Friend of Village Fire Ruth Hampton will once again make us tasty whole food
@@ -400,7 +360,7 @@ shift there if you’d like.
 
 
 
-## <a name="cost"></a>Cost
+## <a name="cost"></a>Last Year's Cost
 
 We offer a sliding scale, knowing that all will pay as they are able and thus
 help our event sustain itself. Most of your money goes toward food and Camp
@@ -467,7 +427,7 @@ Some Village Fire themes from other years have included:
 * *Songs from Other Lands and Times*
 * *Simple Four-Part Beauties*
 
-A Few New Dreams for 2015! 
+More possibilities! 
 
 <img class="wrapright" src="images/ian.jpg"/>
 (We can’t yet know whether all of these will happen this year...if you feel
