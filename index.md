@@ -231,7 +231,7 @@ next door to the <a href="http://fernhollowcabin.com">home of her ancestors</a>.
 ## <a name="daily"></a>The Shape of Our Days
 <img class="wrapright" src="images/young_firemakers.jpg" width="480"/>
 
-**Wednesday, June 10**
+**Wednesday**
 
 * Greeters at the Welcome Table will be watching for you between 3 p.m. and 6
   p.m. They will help you find your way around and to begin meeting others at
@@ -244,7 +244,7 @@ On Thursday at 10:30 am we come together for our Village Fire
 Opening Circle. Come join in this joyful calling out of our 
 gratitudes and blessings on our gathering grounds.
 
-**Thursday, June 11, Friday, June 12 and Saturday, June 13**
+**Thursday, Friday, and Saturday**
 
 * Wholesome meals are served at 8am, noon, and 5pm. At the snack table you can
   find whole food treats for in-between meals; feel free to bring some more to
@@ -270,7 +270,7 @@ gratitudes and blessings on our gathering grounds.
   you are welcomed to follow the pull of your heart.
 
 
-**Sunday, June 14**
+**Sunday**
 
 * We’ll share breakfast together, hold morning song circles, eat lunch, and
   gather for closing circle at 2 p.m. We really hope you can stay for closing
