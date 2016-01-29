@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Village Fire 2015
+title: Village Fire 2016
 ---
 
 #### <a name="about"></a><a name="who"></a> Singing Together to Nourish the Soul<br/> and Re-enchant the World with Song
